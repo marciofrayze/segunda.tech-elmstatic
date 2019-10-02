@@ -1,0 +1,23 @@
+{
+    "siteTitle": "segunda.tech",
+    "outputDir": "_site",
+    "copy": {
+        "/posts": "/"
+    },
+    "feed": {
+        "type": "rss",
+        "title": "segunda.tech",
+        "description": "Artigos, podcasts e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.",
+        "id": "https://segunda.tech",
+        "link": "https://segunda.tech/posts",
+        "image": "https://segunda.tech/img/logo.png",
+        "copyright": "Copyright: Marcio Frayze David",
+        "language": "pt-br",
+        "generator": "Elmstatic",
+        "author": {
+          "name": "Marcio Frayze David",
+          "link": "https://segunda.tech/about"
+        }
+    },
+    "tags": ["podcast", "artigo", "vídeo"]
+}

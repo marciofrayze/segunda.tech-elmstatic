@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>segunda.tech</title>
+        <link>https://segunda.tech/posts</link>
+        <description>Artigos, podcasts e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.</description>
+        <lastBuildDate>Wed, 02 Oct 2019 16:43:34 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Elmstatic</generator>
+        <language>pt-br</language>
+        <image>
+            <title>segunda.tech</title>
+            <url>https://segunda.tech/img/logo.png</url>
+            <link>https://segunda.tech/posts</link>
+        </image>
+        <copyright>Copyright: Marcio Frayze David</copyright>
+        <item>
+            <title><![CDATA[Paradigmas de Programação (episódio Piloto)]]></title>
+            <link>https://segunda.tech/posts/2017-12-11-paradigmas</link>
+            <guid>https://segunda.tech/posts/2017-12-11-paradigmas</guid>
+            <pubDate>Mon, 11 Dec 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Primeiro de uma série de vídeos apresentando os conceitos básicos por trás da Programação Orientada a Objetos.
+
+Neste episódio piloto falo sobre paradigmas de programação.
+
+https://www.youtube.com/watch?v=X2wzt8bLxCo
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introdução a Single Page Application]]></title>
+            <link>https://segunda.tech/posts/2017-12-11-spa</link>
+            <guid>https://segunda.tech/posts/2017-12-11-spa</guid>
+            <pubDate>Mon, 11 Dec 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Neste vídeo apresento os conceito básicos de como são criadas as Single Page Applications.
+
+https://www.youtube.com/watch?v=Xzvs5Hr4ZdI
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Conceitos básicos da Programação Orientada a Objetos]]></title>
+            <link>https://segunda.tech/posts/2018-01-08-conceitos-basicos-oo</link>
+            <guid>https://segunda.tech/posts/2018-01-08-conceitos-basicos-oo</guid>
+            <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Terceiro vídeo da série sobre Programação Orientada a Objetos. Neste episódio apresento alguns conceitos básicos deste paradigma.
+
+https://www.youtube.com/watch?v=CXifkOJJQus
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Desenvolvimento de software guiado por testes]]></title>
+            <link>https://segunda.tech/posts/2018-10-22-tdd</link>
+            <guid>https://segunda.tech/posts/2018-10-22-tdd</guid>
+            <pubDate>Mon, 22 Oct 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Entenda neste artigo como o desenvolvimento guiado por testes pode contribuir para o sucesso de seu próximo projeto.
+
+https://medium.com/@marciofrayze/desenvolvimento-de-software-guiado-por-testes-ab6b470069c7
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Integração contínua e feature toggles]]></title>
+            <link>https://segunda.tech/posts/2018-11-05-feature-toggle</link>
+            <guid>https://segunda.tech/posts/2018-11-05-feature-toggle</guid>
+            <pubDate>Mon, 05 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Descubra neste artigo o que é integração contínua e os conceitos básicos de feature toggle.
+
+https://medium.com/@marciofrayze/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Encontrando dependências com falhas de segurança em aplicações Java]]></title>
+            <link>https://segunda.tech/posts/2018-11-18-java-owasp</link>
+            <guid>https://segunda.tech/posts/2018-11-18-java-owasp</guid>
+            <pubDate>Sun, 18 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Uma forma simples e prática para manter sua aplicação Java longe de dependências com falhas de segurança.
+
+https://medium.com/@marciofrayze/encontrando-depend%C3%AAncias-com-falhas-de-seguran%C3%A7a-em-aplica%C3%A7%C3%B5es-java-8279d47f25b3
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Encontrando dependências desatualizadas em aplicações Java]]></title>
+            <link>https://segunda.tech/posts/2018-12-31-java-dependencias-desatualizadas</link>
+            <guid>https://segunda.tech/posts/2018-12-31-java-dependencias-desatualizadas</guid>
+            <pubDate>Mon, 31 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Aprenda como manter as biblitecas de sua aplicação Java atualizadas.
+
+https://medium.com/@marciofrayze/encontrando-depend%C3%AAncias-desatualizadas-em-aplica%C3%A7%C3%B5es-java-eff3f3a85577?fbclid=IwAR287Abwkvej39RZcPtpvd3vB49BkX1y2hao7_l3IivuVFkxLIlJ0MDpZbg
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript: The Good Parts (O Melhor do JavaScript)]]></title>
+            <link>https://segunda.tech/posts/2019-02-25-melhor-do-javascript</link>
+            <guid>https://segunda.tech/posts/2019-02-25-melhor-do-javascript</guid>
+            <pubDate>Mon, 25 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Podcast falando sobre este excelente livro de JavaScript.
+
+https://soundcloud.com/segunda-ponto-tech/o-melhor-do-javascript
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Building Evolutionary Architectures]]></title>
+            <link>https://segunda.tech/posts/2019-03-03-building-evolutionary-architectures</link>
+            <guid>https://segunda.tech/posts/2019-03-03-building-evolutionary-architectures</guid>
+            <pubDate>Sun, 03 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Segundo episódio do podcast sobre livros. Desta vez falando sobre o Building Evolutionary Architectures.
+
+https://soundcloud.com/segunda-ponto-tech/building-evolutionary-architectures
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Clean Architecture]]></title>
+            <link>https://segunda.tech/posts/2019-03-23-clean-architecture</link>
+            <guid>https://segunda.tech/posts/2019-03-23-clean-architecture</guid>
+            <pubDate>Sat, 23 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Terceiro episódio do podcast sobre livros.
+
+https://soundcloud.com/segunda-ponto-tech/clean-architecture
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Functional Thinking]]></title>
+            <link>https://segunda.tech/posts/2019-06-17-functional-thinking</link>
+            <guid>https://segunda.tech/posts/2019-06-17-functional-thinking</guid>
+            <pubDate>Mon, 17 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Quarto episódio do podcast.
+
+https://soundcloud.com/segunda-ponto-tech/functional-thinking
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Começando a fazer integração contínua efetiva]]></title>
+            <link>https://segunda.tech/posts/2019-07-15-integracao-efetiva</link>
+            <guid>https://segunda.tech/posts/2019-07-15-integracao-efetiva</guid>
+            <pubDate>Mon, 15 Jul 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Artigo onde falo um pouco sobre o que é integração contínua, os principais desafios que encontramos ao tentar iniciar esta prática e várias dicas de como começar de forma efetiva.
+
+https://medium.com/@marciofrayze/come%C3%A7ando-a-fazer-integra%C3%A7%C3%A3o-cont%C3%ADnua-efetiva-e46a00de37e8
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A história do null]]></title>
+            <link>https://segunda.tech/posts/2019-08-23-historia-do-null</link>
+            <guid>https://segunda.tech/posts/2019-08-23-historia-do-null</guid>
+            <pubDate>Fri, 23 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Se você já tem alguma experiência com desenvolvimento de softwares, já deve ter enfrentado algum tipo de problema relacionado com uma referência nula. Seja um Null Pointer Exception no Java, o clássico segmentation fault da linguagem C ou algum erro equivalente em outra linguagem. Mas você sabe qual a origem do null?
+
+https://medium.com/@marciofrayze/a-hist%C3%B3ria-do-null-781de8a0aa77
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Por que me interessei por programação funcional]]></title>
+            <link>https://segunda.tech/posts/2019-09-09-por-que-fp</link>
+            <guid>https://segunda.tech/posts/2019-09-09-por-que-fp</guid>
+            <pubDate>Mon, 09 Sep 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Neste artigo compartilho os motivos que despertaram meu interesse em estudar programação funcional.
+
+https://medium.com/@marciofrayze/por-que-me-interessei-por-programa%C3%A7%C3%A3o-funcional-7d0efdaadee9
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Variáveis opcionais]]></title>
+            <link>https://segunda.tech/posts/2019-09-19-variaveis-opcionais</link>
+            <guid>https://segunda.tech/posts/2019-09-19-variaveis-opcionais</guid>
+            <pubDate>Thu, 19 Sep 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Algum tempo atrás publiquei um artigo falando sobre a história do null e seus potenciais problemas.
+
+Neste artigo explico como podemos utilizar o optional.
+
+https://medium.com/@marciofrayze/vari%C3%A1veis-opcionais-eb546e4630ab
+...]]></description>
+        </item>
+    </channel>
+</rss>
