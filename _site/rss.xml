@@ -4,7 +4,7 @@
         <title>segunda.tech</title>
         <link>https://segunda.tech/posts</link>
         <description>Artigos, podcasts e vídeos explicando de forma simples e clara os conceitos mais importantes da área de desenvolvimento de software e ciência da computação em geral.</description>
-        <lastBuildDate>Wed, 02 Oct 2019 16:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2019 02:48:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Elmstatic</generator>
         <language>pt-br</language>
@@ -181,6 +181,17 @@ Algum tempo atrás publiquei um artigo falando sobre a história do null e seus 
 Neste artigo explico como podemos utilizar o optional.
 
 https://medium.com/@marciofrayze/vari%C3%A1veis-opcionais-eb546e4630ab
+...]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Juntas: o poder da liderança compartilhada nos negócios]]></title>
+            <link>https://segunda.tech/posts/2019-11-24-juntas</link>
+            <guid>https://segunda.tech/posts/2019-11-24-juntas</guid>
+            <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+Quinto episódio do podcast sobre livros. Desta vez falando sobre o Juntas: o poder da liderança compartilhada nos negócios.
+
+https://soundcloud.com/segunda-ponto-tech/juntas
 ...]]></description>
         </item>
     </channel>
