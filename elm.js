@@ -5545,7 +5545,7 @@ var author$project$Page$footer = A2(
 					elm$html$Html$a,
 					_List_fromArray(
 						[
-							elm$html$Html$Attributes$href('https://twitter.com/mfdavid')
+							elm$html$Html$Attributes$href('https://twitter.com/marciofrayze')
 						]),
 					_List_fromArray(
 						[

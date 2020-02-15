@@ -54,8 +54,8 @@ markdown s =
 header : List (Html Never)
 header =
     [ div [ class "header-logo" ]
---        [ img [ alt "Author's blog", src "/img/logo.png", attribute "width" "100" ]
---            []
+        --        [ img [ alt "Author's blog", src "/img/logo.png", attribute "width" "100" ]
+        --            []
         []
     , div [ class "navigation" ]
         [ ul []
@@ -79,12 +79,12 @@ header =
 footer : Html Never
 footer =
     div [ class "footer" ]
---        [ img
---            [ alt "segunda.tech"
---            , src "/img/logo.png"
---            , attribute "style" "float: left; padding-top: 7px"
---            , attribute "width" "75"
---            ]
+        --        [ img
+        --            [ alt "segunda.tech"
+        --            , src "/img/logo.png"
+        --            , attribute "style" "float: left; padding-top: 7px"
+        --            , attribute "width" "75"
+        --            ]
         [ div [ class "link" ]
             [ githubIcon
             , a [ href "https://github.com/marciofrayze" ]
@@ -92,7 +92,7 @@ footer =
             ]
         , div [ class "link" ]
             [ twitterIcon
-            , a [ href "https://twitter.com/mfdavid" ]
+            , a [ href "https://twitter.com/marciofrayze" ]
                 [ text "Twitter" ]
             ]
         , div [ class "link" ]
