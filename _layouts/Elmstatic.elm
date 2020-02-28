@@ -140,6 +140,8 @@ htmlTemplate title contentNodes =
             []
             [ node "title" [] [ text title ]
             , node "meta" [ attribute "charset" "utf-8" ] []
+
+            -- , node "meta" [ name "viewport", content "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" ] []
             , script "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.1/highlight.min.js"
             , script "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.1/languages/elm.min.js"
             , inlineScript "hljs.initHighlightingOnLoad();"

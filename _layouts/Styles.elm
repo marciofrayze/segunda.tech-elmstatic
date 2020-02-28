@@ -72,7 +72,10 @@ styles =
                 ]
             , wideScreen [ marginTop <| px 0, padding <| px 0, textAlign right ]
             ]
-        , class "content" [ Css.maxWidth <| vw 100 ]
+        , class "content"
+            [ Css.maxWidth <| vw 100
+            , margin <| px 20
+            ]
         , class "footer"
             [ textAlign center
             , borderTop3 (px 2) solid (hex "2f4858")

@@ -5643,6 +5643,22 @@ var author$project$Page$header = _List_fromArray(
 									[
 										elm$html$Html$text('Contato')
 									]))
+							])),
+						A2(
+						elm$html$Html$li,
+						_List_Nil,
+						_List_fromArray(
+							[
+								A2(
+								elm$html$Html$a,
+								_List_fromArray(
+									[
+										elm$html$Html$Attributes$href('/rss')
+									]),
+								_List_fromArray(
+									[
+										elm$html$Html$text('RSS')
+									]))
 							]))
 					]))
 			]))
@@ -9004,7 +9020,9 @@ var author$project$Styles$styles = function () {
 					_List_fromArray(
 						[
 							rtfeldman$elm_css$Css$maxWidth(
-							rtfeldman$elm_css$Css$vw(100))
+							rtfeldman$elm_css$Css$vw(100)),
+							rtfeldman$elm_css$Css$margin(
+							rtfeldman$elm_css$Css$px(20))
 						])),
 					A2(
 					rtfeldman$elm_css$Css$Global$class,
