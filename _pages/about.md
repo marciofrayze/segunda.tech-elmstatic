@@ -13,7 +13,7 @@ the National Traffic Department ([DENATRAN](https://portalservicos.denatran.serp
 In this company I worked in many solutions, including development of the 
 [Digital Traffic Wallet (CDT)](https://servicos.serpro.gov.br/carteira-digital/).  
 Although most of my work is developing backend software, I also develop
-fontends and mobile apps (for iOS and Android).
+frontends and mobile apps (for iOS and Android).
 
 ## Technologies
 

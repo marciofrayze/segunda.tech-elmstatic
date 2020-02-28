@@ -14,7 +14,7 @@ o Departamento Nacional de Trânsito (DENATRAN). Nesta empresa atuei
 em muitas soluções, incluindo o desenvolvimento do aplicativo
 [Carteira Digital de Trânsito (CDT)](https://servicos.serpro.gov.br/carteira-digital/).  
 Embora durante a maior parte do meu trabalho passe desenvolvendo softwares
-no *backend*, também desenvolvo *fontends* e aplicativos móveis (para iOS e
+no *backend*, também desenvolvo *frontends* e aplicativos móveis (para iOS e
 Android).
 
 ## Tecnologias
