@@ -5582,7 +5582,10 @@ var author$project$Page$header = _List_fromArray(
 			[
 				elm$html$Html$Attributes$class('header-logo')
 			]),
-		_List_Nil),
+		_List_fromArray(
+			[
+				elm$html$Html$text('segunda.tech')
+			])),
 		A2(
 		elm$html$Html$div,
 		_List_fromArray(
@@ -8947,8 +8950,12 @@ var author$project$Styles$styles = function () {
 					_List_fromArray(
 						[
 							rtfeldman$elm_css$Css$paddingTop(
-							rtfeldman$elm_css$Css$px(6)),
+							rtfeldman$elm_css$Css$px(16)),
+							rtfeldman$elm_css$Css$paddingLeft(
+							rtfeldman$elm_css$Css$px(15)),
 							rtfeldman$elm_css$Css$textAlign(rtfeldman$elm_css$Css$center),
+							rtfeldman$elm_css$Css$fontSize(
+							rtfeldman$elm_css$Css$px(32)),
 							rtfeldman$elm_css$Css$backgroundColor(
 							rtfeldman$elm_css$Css$hex('f2fae8')),
 							wideScreen(

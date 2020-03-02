@@ -1,5 +1,5 @@
 ---
-title: "segunda.tech"
+title: ""
 layout: Posts
 ---
 

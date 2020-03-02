@@ -48,8 +48,10 @@ styles =
         , p [ margin3 auto auto (rem 1.5) ]
         , Css.Global.small [ fontSize <| pct 65 ]
         , class "header-logo"
-            [ paddingTop <| px 6
+            [ paddingTop <| px 16
+            , paddingLeft <| px 15
             , textAlign center
+            , fontSize <| px 32
             , backgroundColor <| hex "f2fae8"
             , wideScreen [ textAlign left, borderBottom3 (px 2) solid (hex "3c8765") ]
             ]

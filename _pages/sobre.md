@@ -59,4 +59,28 @@ mas minha fonte preferida ainda continuam sendo os livros. Por isso mesmo, criei
 um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os 
 livros que influenciaram minha carreira.
   
+## Palestras realizadas
+**Evento**: TDC (The Developers Conference) 2019 São Paulo.  
+**Trilha**: Frontend.  
+**Título**: Migrando do nativo para Flutter: Como não enlouquecer?  
+**Local**: FATEC. Rua Frederico Grotte, 322, Jardim São Luís - São Paulo.  
+**Data**: 04/03/2020.  
+
+**Evento**: TDC (The Developers Conference) 2019 São Paulo.  
+**Trilha**: XP (eXtreme Programming).  
+**Título**: Começando a fazer integração contínua efetiva.  
+**Local**:  Universidade Anhembi Morumbi. Rua Casa do Ator, 275, Vila Olímpia - São Paulo.  
+**Data**: 19/07/2019.  
+
+**Evento**: TDC (The Developers Conference) 2019 Florianópolis.  
+**Trilha**: Java.  
+**Título**: Começando a fazer integração contínua efetiva.  
+**Local**: CentroSul. Av. Gov. Gustavo Richard, 850, Centro - Florianópolis.  
+**Data**: 24/04/2019.  
+
+**Evento**: FLISOL (Festival Latino-americano de Instalação de Software Livre).  
+**Título**: Desenvolvendo aplicativos e jogos para celular (J2ME) utilizando Software Livre.  
+**Local**: Faculdade Rio Branco. Av. José Maria de Faria, 111 - São Paulo.  
+**Data**: 25/04/2009.  
+
 Você encontra mais informações sobre mim em [minha página do linkedin](https://www.linkedin.com/in/marcio-frayze-a37319b/).
