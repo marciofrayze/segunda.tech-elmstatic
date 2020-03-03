@@ -48,8 +48,8 @@ Listei acima apenas algumas das diversas tecnologias que estudei ao longo da
 minha carreira, mas sempre priorizei os conceitos acima de tudo. Por isso,
 dou atenção especial aos estudos de paradigmas e boas práticas de programação.  
 Durante muitos anos meu foco foi na programação orientada a objetos, mas nos
-últimos anos comecei a estudar também bastante sobre o paradigma funcional.  
-Além disso, tenho um interesse em programação extrema e arquitetura de softwares.  
+últimos anos comecei a estudar bastante sobre o paradigma funcional.  
+Além disso, tenho me interesso também por programação extrema e arquitetura de software.  
 
 ## Estudos
 Me mantenho atualizado através de diversas fontes diferentes, entre elas
@@ -60,7 +60,7 @@ um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os
 livros que influenciaram minha carreira.
   
 ## Palestras realizadas
-**Evento**: TDC (The Developers Conference) 2019 São Paulo.  
+**Evento**: Tech Week (Semana de Tecnologia) da FATEC Zona Sul  
 **Trilha**: Frontend.  
 **Título**: Migrando do nativo para Flutter: Como não enlouquecer?  
 **Local**: FATEC. Rua Frederico Grotte, 322, Jardim São Luís - São Paulo.  
@@ -83,4 +83,4 @@ livros que influenciaram minha carreira.
 **Local**: Faculdade Rio Branco. Av. José Maria de Faria, 111 - São Paulo.  
 **Data**: 25/04/2009.  
 
-Você encontra mais informações sobre mim em [minha página do linkedin](https://www.linkedin.com/in/marcio-frayze-a37319b/).
+Você encontra mais informações sobre mim em [minha página do linkedin](https://www.linkedin.com/in/marcio-frayze).

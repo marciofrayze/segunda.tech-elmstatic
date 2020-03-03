@@ -86,4 +86,4 @@ books that influenced my career.
 **Local**: Faculdade Rio Branco. Av. José Maria de Faria, 111 - São Paulo.  
 **Data**: 2009/04/25.  
 
-You'll find more information about me at [my linkedin page](https://www.linkedin.com/in/marcio-frayze-a37319b/).
+You'll find more information about me at [my linkedin page](https://www.linkedin.com/in/marcio-frayze).
