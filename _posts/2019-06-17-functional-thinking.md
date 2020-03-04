@@ -1,6 +1,6 @@
 ---
 title: "Functional Thinking"
-tags: podcast
+tags: podcast programaçãofuncional
 ---
 
 Quarto episódio do podcast.

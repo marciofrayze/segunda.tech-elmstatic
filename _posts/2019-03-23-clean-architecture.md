@@ -1,6 +1,6 @@
 ---
 title: "Clean Architecture"
-tags: podcast
+tags: podcast arquitetura
 ---
 
 Terceiro episódio do podcast sobre livros.

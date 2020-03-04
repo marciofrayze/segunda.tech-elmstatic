@@ -1,6 +1,6 @@
 ---
 title: "Paradigmas de Programação (episódio Piloto)"
-tags: vídeo
+tags: vídeo poo integraçãocontínua
 ---
 
 Primeiro de uma série de vídeos apresentando os conceitos básicos por trás da Programação Orientada a Objetos. 

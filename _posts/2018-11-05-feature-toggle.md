@@ -1,6 +1,6 @@
 ---
 title: "Integração contínua e feature toggles"
-tags: artigo
+tags: artigo integraçãocontínua
 ---
 
 Descubra neste artigo o que é integração contínua e os conceitos básicos de <i>feature toggle</i>.

@@ -1,6 +1,6 @@
 ---
 title: "Encontrando dependências desatualizadas em aplicações Java"
-tags: artigo
+tags: artigo java
 ---
 
 Aprenda como manter as biblitecas de sua aplicação Java atualizadas.

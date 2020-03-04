@@ -1,6 +1,6 @@
 ---
 title: "Encontrando dependências com falhas de segurança em aplicações Java"
-tags: artigo
+tags: artigo java
 ---
 
 Uma forma simples e prática para manter sua aplicação Java longe de dependências com falhas de segurança.

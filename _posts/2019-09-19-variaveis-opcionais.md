@@ -1,6 +1,6 @@
 ---
 title: "Variáveis opcionais"
-tags: artigo
+tags: artigo programaçãofuncional
 ---
 
 Algum tempo atrás publiquei um artigo falando sobre a história do null e seus potenciais problemas.

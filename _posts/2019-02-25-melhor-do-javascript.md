@@ -1,6 +1,6 @@
 ---
 title: "JavaScript: The Good Parts (O Melhor do JavaScript)"
-tags: podcast
+tags: podcast javascript
 ---
 
 Podcast falando sobre este excelente livro de JavaScript.

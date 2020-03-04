@@ -1,6 +1,6 @@
 ---
 title: "História da Programação Orientada a Objetos"
-tags: vídeo
+tags: vídeo poo
 ---
 
 Segundo vídeo da série sobre Programação Orientada a Objetos. Neste episódio falo um pouco sobre a história deste paradigma de programação.

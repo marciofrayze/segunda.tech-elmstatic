@@ -1,6 +1,6 @@
 ---
 title: "Começando a fazer Integração Contínua efetiva"
-tags: vídeo
+tags: vídeo integraçãocontínua
 ---
 
 Neste vídeo apresento uma introdução à integração contínua.
