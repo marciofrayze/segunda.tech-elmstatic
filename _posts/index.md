@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Publicações"
 layout: Posts
 ---
 

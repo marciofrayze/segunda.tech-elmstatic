@@ -17,6 +17,8 @@ Embora durante a maior parte do meu trabalho passe desenvolvendo softwares
 no *backend*, também desenvolvo *frontends* e aplicativos móveis (para iOS e
 Android).
 
+---
+
 ## Tecnologias
 
 ### Java
@@ -43,6 +45,8 @@ e de sua comunidade.
 Trabalho como DevOps, o que exige um certo conhecimento nesta tecnologias, mas
 é um assunto que ainda estou em um nível intermediário.
 
+---
+
 ## Interesses
 Listei acima apenas algumas das diversas tecnologias que estudei ao longo da
 minha carreira, mas sempre priorizei os conceitos acima de tudo. Por isso,
@@ -51,6 +55,8 @@ Durante muitos anos meu foco foi na programação orientada a objetos, mas nos
 últimos anos comecei a estudar bastante sobre o paradigma funcional.  
 Além disso, tenho me interesso também por programação extrema e arquitetura de software.  
 
+---
+
 ## Estudos
 Me mantenho atualizado através de diversas fontes diferentes, entre elas
 fazendo cursos *online* em plataformas como a 
@@ -58,7 +64,9 @@ fazendo cursos *online* em plataformas como a
 mas minha fonte preferida ainda continuam sendo os livros. Por isso mesmo, criei
 um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os 
 livros que influenciaram minha carreira.
-  
+
+---
+
 ## Palestras realizadas
 **Evento**: Tech Week (Semana de Tecnologia) da FATEC Zona Sul  
 **Trilha**: Frontend.  
@@ -82,5 +90,7 @@ livros que influenciaram minha carreira.
 **Título**: Desenvolvendo aplicativos e jogos para celular (J2ME) utilizando Software Livre.  
 **Local**: Faculdade Rio Branco. Av. José Maria de Faria, 111 - São Paulo.  
 **Data**: 25/04/2009.  
+
+---
 
 Você encontra mais informações sobre mim em [minha página do linkedin](https://www.linkedin.com/in/marcio-frayze).
