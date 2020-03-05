@@ -93,4 +93,12 @@ livros que influenciaram minha carreira.
 
 ---
 
+## Formação
+**Mestrado** em Engenharia Elétrica (com ênfase em Inteligência Artificial) pela Universidade
+Presbiteriana Mackenzie em 2009.  
+
+**Graduação** em Ciência da Computação pela PUC-SP em 2007.  
+
+---
+
 Você encontra mais informações sobre mim em [minha página do linkedin](https://www.linkedin.com/in/marcio-frayze).
