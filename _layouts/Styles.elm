@@ -71,6 +71,12 @@ styles =
                     [ display inlineBlock
                     , marginRight <| px 20
                     ]
+                , a
+                    [ padding <|
+                        px 9
+                    , Css.hover
+                        [ backgroundColor <| hex "#c7f2cd" ]
+                    ]
                 ]
             , wideScreen [ marginTop <| px 0, padding <| px 0, textAlign right ]
             ]
