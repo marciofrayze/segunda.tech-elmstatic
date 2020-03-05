@@ -68,26 +68,26 @@ livros que influenciaram minha carreira.
 ---
 
 ## Palestras realizadas
+**Título**: Migrando do nativo para Flutter: Como não enlouquecer?  
 **Evento**: Tech Week (Semana de Tecnologia) da FATEC Zona Sul  
 **Trilha**: Frontend.  
-**Título**: Migrando do nativo para Flutter: Como não enlouquecer?  
 **Local**: FATEC. Rua Frederico Grotte, 322, Jardim São Luís - São Paulo.  
 **Data**: 04/03/2020.  
 
+**Título**: Começando a fazer integração contínua efetiva.  
 **Evento**: TDC (The Developers Conference) 2019 São Paulo.  
 **Trilha**: XP (eXtreme Programming).  
-**Título**: Começando a fazer integração contínua efetiva.  
 **Local**:  Universidade Anhembi Morumbi. Rua Casa do Ator, 275, Vila Olímpia - São Paulo.  
 **Data**: 19/07/2019.  
 
+**Título**: Encontrando dependências desatualizadas ou com falhas de segurança em aplicação Java.  
 **Evento**: TDC (The Developers Conference) 2019 Florianópolis.  
 **Trilha**: Java.  
-**Título**: Começando a fazer integração contínua efetiva.  
 **Local**: CentroSul. Av. Gov. Gustavo Richard, 850, Centro - Florianópolis.  
 **Data**: 24/04/2019.  
 
-**Evento**: FLISOL (Festival Latino-americano de Instalação de Software Livre).  
 **Título**: Desenvolvendo aplicativos e jogos para celular (J2ME) utilizando Software Livre.  
+**Evento**: FLISOL (Festival Latino-americano de Instalação de Software Livre).  
 **Local**: Faculdade Rio Branco. Av. José Maria de Faria, 111 - São Paulo.  
 **Data**: 25/04/2009.  
 
