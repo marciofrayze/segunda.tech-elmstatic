@@ -97,19 +97,20 @@ livros que influenciaram minha carreira.
 ### Mestrado
 Engenharia Elétrica (com ênfase em Inteligência Artificial) pela Universidade
 Presbiteriana Mackenzie em 2010.  
-**Título da dissertação**: Um algoritmo bioinspirado para agrupamento de dados (disponível para download [aqui](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf)).
+**Título da dissertação**: Um algoritmo bioinspirado para agrupamento de dados.  
+Disponível para baixar [aqui](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf).
 
 ### Graduação
 Ciência da Computação pela PUC-SP em 2007.  
 
 ### Artigos em revistas científicas
-**Título**: A New Clustering Boids Algorithm for Data Mining.  
 **Evento**: [AI*IA 2009: Emergent Perspectives in Artificial Intelligence](https://www.springer.com/gp/book/9783642102905). XI Conference of the Italian Association for Artificial Intelligence, 2009, Reggio Emilia.  
+**Título**: A New Clustering Boids Algorithm for Data Mining.  
 Disponível para baixar [aqui](https://pdfs.semanticscholar.org/669d/f2ac2f54502d926788953911fc8ff622091e.pdf).
 
+**Evento**: Congresso Brasileiro de Automática - CBA 2010, 2010, Bonito - MS.  
 **Título**: Um Algoritmo de Vida Artificial para Agrupamento de Dados.  
-**Evento**: Congresso Brasileiro de Automática - CBA 2010, 2010, Bonito - MS  
-Disponível para baixar [aqui](https://www.sba.org.br/Proceedings/CBA/CBA2010.zip) (artigo encontra-se em *CBA 2010/Artigos/66755_1.pdf*).
+Disponível para baixar [aqui](https://www.sba.org.br/Proceedings/CBA/CBA2010.zip) (arquivo 66755_1.pdf).
 
 ---
 

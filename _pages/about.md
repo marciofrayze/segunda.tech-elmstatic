@@ -99,19 +99,20 @@ books that influenced my career.
 ### Master's degree
 Electrical Engineering (with emphasis on Artificial Intelligence) at the
 [Presbyterian Mackenzie University](https://www.mackenzie.br/en/universidade/meet-the-university) in 2010.  
-**Dissertation title**: A bioinspired algorithm for data grouping (available for download [here](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf)).
+**Dissertation title**: A bioinspired algorithm for data grouping.  
+Available for download [here](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf).
 
 ### Graduation
 Computer Science at [Pontifical Catholic University of São Paulo](https://www.pucsp.br/home).  
 
 ### Articles in scientific journals
-**Title**: A New Clustering Boids Algorithm for Data Mining.  
 **Event**: [AI*IA 2009: Emergent Perspectives in Artificial Intelligence](https://www.springer.com/gp/book/9783642102905). XI Conference of the Italian Association for Artificial Intelligence, 2009, Reggio Emilia.  
+**Title**: A New Clustering Boids Algorithm for Data Mining.  
 Available for download [here](https://pdfs.semanticscholar.org/669d/f2ac2f54502d926788953911fc8ff622091e.pdf).
 
+**Event**: Brazilian Congress of Automatic - CBA 2010, 2010, Bonito - MS.  
 **Title**: An Artificial Life Algorithm for Data Grouping.  
-**Event**: Brazilian Congress of Automatic - CBA 2010, 2010, Bonito - MS  
-Available for download [here](https://www.sba.org.br/Proceedings/CBA/CBA2010.zip) (article can be found in *CBA 2010/Articles/66755_1.pdf*).
+Available for download [here](https://www.sba.org.br/Proceedings/CBA/CBA2010.zip) (66755_1.pdf file).
 
 ---
 
