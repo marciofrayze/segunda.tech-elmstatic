@@ -1,6 +1,6 @@
 ---
 title: "Começando a fazer integração contínua efetiva"
-tags: artigo integraçãocontínua
+tags: artigo integraçãocontínua tdd
 ---
 
 Artigo onde falo um pouco sobre o que é integração contínua, os principais desafios que encontramos ao tentar iniciar esta prática e várias dicas de como começar de forma efetiva.

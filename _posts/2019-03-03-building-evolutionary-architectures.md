@@ -1,6 +1,6 @@
 ---
 title: "Building Evolutionary Architectures"
-tags: podcast arquitetura
+tags: podcast arquitetura tdd
 ---
 
 Segundo episódio do podcast sobre livros. Desta vez falando sobre o Building Evolutionary Architectures.
