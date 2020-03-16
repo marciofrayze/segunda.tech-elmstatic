@@ -73,9 +73,9 @@ styles =
                     ]
                 , a
                     [ padding <|
-                        px 9
+                        px 3
                     , Css.hover
-                        [ backgroundColor <| hex "#c7f2cd" ]
+                        [ Css.color <| hex "#20bff4" ]
                     ]
                 ]
             , wideScreen [ marginTop <| px 0, padding <| px 0, textAlign right ]
