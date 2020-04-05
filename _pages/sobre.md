@@ -42,7 +42,7 @@ Embora não a tenha utilizado em nenhum grande projeto, sou fã desta linguagem
 e de sua comunidade.
 
 ### Docker / Kubernetes
-Trabalho como DevOps, o que exige um certo conhecimento nesta tecnologias, mas
+Trabalho com práticas DevOps, o que exige um certo conhecimento nessas tecnologias, mas
 é um assunto que ainda estou em um nível intermediário.
 
 ---
@@ -61,7 +61,7 @@ Além disso, tenho me interesso também por programação extrema e arquitetura 
 Me mantenho atualizado através de diversas fontes diferentes, entre elas
 fazendo cursos *online* em plataformas como a 
 [PluralSight](https://pluralsight.com) e [egghead.io](https://egghead.com),
-mas minha fonte preferida ainda continuam sendo os livros. Por isso mesmo, criei
+mas minha fonte preferida ainda continua sendo os livros. Por isso mesmo, criei
 um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os 
 livros que influenciaram minha carreira.
 

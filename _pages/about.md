@@ -37,10 +37,10 @@ In the past I have used this language a lot and even created [a *web framework*]
 
 ### Elm
 Although I have not used it in any major project, I am a fan of this language
-and their community.
+and its community.
 
 ### Docker / Kubernetes
-I work as DevOps, which requires a certain knowledge in this technologies, but
+I work with DevOps practices, which requires a certain knowledge in this technologies, but
 it's a subject I'm still on an intermediate level.
 
 ---
