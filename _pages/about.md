@@ -66,11 +66,11 @@ books that influenced my career.
 ---
 
 ## Talks
-**Event**: TDC (The Developers Conference) 2019 São Paulo.  
+**Event**: Tech Week.
 **Track**: Frontend.  
 **Title**: Migrating from native to Flutter: How to not go crazy?  
 **Original title**: Migrando do nativo para Flutter: Como não enlouquecer?  
-**Local**: FATEC. Rua Frederico Grotte, 322, Jardim São Luís - São Paulo.  
+**Local**: FATEC (Faculty of Technology of the State of São Paulo). Rua Frederico Grotte, 322, Jardim São Luís - São Paulo.  
 **Data**: 2020/03/04.  
 
 **Event**: TDC (The Developers Conference) 2019 São Paulo.  
