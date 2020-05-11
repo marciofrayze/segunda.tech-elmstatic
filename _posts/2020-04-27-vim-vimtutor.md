@@ -1,5 +1,5 @@
 ---
-title: "Vim - Conhecendo o vimtutor"
+title: "Vim #1 - Conhecendo o vimtutor"
 tags: vídeo vim 
 ---
 
