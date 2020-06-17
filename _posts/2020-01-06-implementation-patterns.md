@@ -1,5 +1,5 @@
 ---
-title: Padrões de Implementação: Um Catálogo de Padrões Indispensável para o Dia a Dia do Programador
+title: "Padrões de Implementação: Um Catálogo de Padrões Indispensável para o Dia a Dia do Programador"
 tags: podcast arquitetura
 ---
 
