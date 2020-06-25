@@ -68,6 +68,12 @@ livros que influenciaram minha carreira.
 ---
 
 ## Palestras realizadas
+**Título**: Padrões de Projeto no Mundo Real - Exemplos no Serpro.  
+**Evento**: Apresentação para alunos de Engenharia da Computação da USP.  
+**Local**: Online (durante quarentena).  
+**Data**: 28/05/2020.  
+**Link**: https://www.youtube.com/watch?v=MXA3aI7Er74  
+
 **Título**: Migrando do nativo para Flutter: Como não enlouquecer?  
 **Evento**: Tech Week (Semana de Tecnologia) da FATEC Zona Sul  
 **Trilha**: Frontend.  
