@@ -58,7 +58,7 @@ In addition, I am interested in extreme programming and software architecture.
 ## Studies
 I keep up to date through several different sources, including
 taking online courses on platforms such as 
-[PluralSight](https://pluralsight.com) and [egghead.io](https://egghead.io),
+[PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) and [egghead.io](https://egghead.io),
 but my favorite source still remains the books. That's why I created
 a [podcast](https://segunda.tech/tags/podcast/) to talk only about the 
 books that influenced my career.

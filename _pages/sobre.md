@@ -60,7 +60,7 @@ Além disso, tenho me interesso também por programação extrema e arquitetura 
 ## Estudos
 Me mantenho atualizado através de diversas fontes diferentes, entre elas
 fazendo cursos *online* em plataformas como a 
-[PluralSight](https://pluralsight.com) e [egghead.io](https://egghead.io),
+[PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) e [egghead.io](https://egghead.io),
 mas minha fonte preferida ainda continua sendo os livros. Por isso mesmo, criei
 um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os 
 livros que influenciaram minha carreira.
