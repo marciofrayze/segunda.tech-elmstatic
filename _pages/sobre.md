@@ -62,8 +62,8 @@ Me mantenho atualizado através de diversas fontes diferentes, entre elas
 fazendo cursos *online* em plataformas como a 
 [PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) e [egghead.io](https://egghead.io),
 mas minha fonte preferida ainda continua sendo os livros. Por isso mesmo, criei
-um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os 
-livros que influenciaram minha carreira.
+um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os
+livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [p de Podcast](https://anchor.fm/pdepodcast/), um podcast onde falamos sobre Arquitetura de Software e boas práticas de programação.
 
 ---
 

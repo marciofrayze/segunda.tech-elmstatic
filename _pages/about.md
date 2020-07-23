@@ -61,7 +61,7 @@ taking online courses on platforms such as
 [PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) and [egghead.io](https://egghead.io),
 but my favorite source still remains the books. That's why I created
 a [podcast](https://segunda.tech/tags/podcast/) to talk only about the 
-books that influenced my career.
+books that influenced my career. I am also one of the founders of [p de Podcast (p is for Podcast)](https://anchor.fm/pdepodcast/), a podcast (in brazilian portuguese) where we talk about Software Architecture and good programming practices.
 
 ---
 
