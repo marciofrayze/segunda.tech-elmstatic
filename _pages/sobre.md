@@ -68,6 +68,12 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 ---
 
 ## Palestras realizadas
+**Título**: Conhecendo os bastidores do app CDT (Carteira Digital de Trânsito).  
+**Subtítulo**: Como foi a implementação de um App em flutter para 8 milhões de usuárias.  
+**Evento**: Semana da Ciência e Tecnologia, Instituto Federal de Mato Grosso do Sul (IFMS).  
+**Local**: Online (durante quarentena).  
+**Data**: 21/10/2020.  
+
 **Título**: Padrões de Projeto no Mundo Real - Exemplos no Serpro.  
 **Evento**: Apresentação para alunos de Engenharia da Computação da USP.  
 **Local**: Online (durante quarentena).  
