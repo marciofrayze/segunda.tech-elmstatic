@@ -66,6 +66,11 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 ---
 
 ## Talks
+**Title**: The backstage of the CDT (Digital Traffic Wallet) app.  
+**Subtitle**: How was the implementation of a flutter App for 8 million users.  
+**Event**: Science and Technology Week, Federal Institute of Mato Grosso do Sul (IFMS).  
+**Date**: 2020/10/21.  
+
 **Title**: Design Patterns in the real world.  
 **Event**: Presentation for Computer Engineering students at USP.  
 **Local**: Online (during quarantine).  
