@@ -5,7 +5,7 @@ title: "TDC Innovation 2021"
 ## Conhecendo os bastidores do App CDT (Carteira Digital de Trânsito)
 ### Trilha Mobile/Stadium
 
-[Baixar os slides](../resources/tdc-innovation-2021-cdt.pdf)
+[Baixar os slides](../tdc-innovation-2021-cdt.pdf)
 
 ### Contatos dos palestrantes:
 
@@ -25,7 +25,7 @@ Twitter: [https://twitter.com/@marciofrayze](https://twitter.com/@marciofrayze)
 ## Faça deploy sexta-feira à tarde
 ### Trilha Design de Código e XP
 
-[Baixar os Slides](../resources/tdc-innovation-2021-faca-deploy-sexta-a-tarde.pdf)
+[Ver slides online](../tdc-innovation-2021-trilha-xp-faca-deploy-sexta-feira-a-tarde)
 
 ### Contatos do palestrante:
 
