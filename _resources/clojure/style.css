@@ -1,0 +1,19 @@
+@media (max-width: 1000px) {  body { margin: 0.5em 2em 0.5em 2em } }
+body { max-width: 40em; }
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    font-family:Open Sans, Arial, sans-serif;
+    font-size:20px;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 1em;
+}

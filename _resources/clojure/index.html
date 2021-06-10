@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="Stylesheet" type="text/css" href="style.css">
+<title>Curso clojure dev br</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<div id="Clojure: Introdução à Programação Funcional"><h1 id="Clojure: Introdução à Programação Funcional" class="header"><b>Clojure: Introdução à Programação Funcional</b></h1></div>
+
+<p>
+Você está a fim de aprender Clojure e programação funcional?? Estou criando uma série de cursos sobre Clojure e Programação Funcional e o primeiro deles já está quase pronto!
+</p>
+
+<p>
+Preencha seu e-mail no formulário abaixo para eu saber que você tem interesse e irei te avisar assim que estiver disponível.
+</p>
+
+<p>
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css"> <style type="text/css"> #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; } </style> <div id="mc_embed_signup"> <form action="https://tech.us6.list-manage.com/subscribe/post?u=0258c764d40e2e0e5603f750d&amp;id=d0c9918c27" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate> <div id="mc_embed_signup_scroll"> <h2>Quer saber quando o curso estiver disponível? Inscreva-se abaixo!</h2> <div class="mc-field-group"> <label for="mce-EMAIL">E-mail <span class="asterisk">*</span> </label> <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"> </div> <div id="mce-responses" class="clear"> <div class="response" id="mce-error-response" style="display:none"></div> <div class="response" id="mce-success-response" style="display:none"></div> </div> <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0258c764d40e2e0e5603f750d_d0c9918c27" tabindex="-1" value=""></div> <div class="clear"><input type="submit" value="Inscrever" name="subscribe" id="mc-embedded-subscribe" class="button"></div> </div> </form> </div>
+</p>
+
+<p>
+Ficou na dúvida?? Confira abaixo o conteúdo programático só do primeiro curso que estou finalizando!
+</p>
+
+<div id="Clojure: Introdução à Programação Funcional-Objetivo do primeiro módulo do curso"><h2 id="Objetivo do primeiro módulo do curso" class="header"><b>Objetivo do primeiro módulo do curso</b></h2></div>
+
+<p>
+Aprender os fundamentos de programação em Clojure e os conceitos básicos do paradigma funcional.
+</p>
+
+<p>
+Ao final do curso você deve ser capaz de:
+</p>
+<ul>
+<li>
+implementar programas básicos e executá-los através do REPL e dentro de sua IDE;
+
+<li>
+construir suas próprias funções com e sem parâmetros;
+
+<li>
+imprimir dados na tela;
+
+<li>
+criar condicionais;
+
+<li>
+entender o conceito básico de funções de primeira ordem;
+
+<li>
+trabalhar com vetores e mapas;
+
+<li>
+transformar elementos de vetores e mapas utizando <em>filter</em>, <em>map</em> e <em>reduce</em>;
+
+<li>
+entender como é possível desenvolver softwares usando estruturas de dados imutáveis;
+
+<li>
+e criar testes automatizados para validar o funcionamento de suas funções.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 1: Introdução"><h2 id="Parte 1: Introdução" class="header"><b>Parte 1: Introdução</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Conseguir implementar e executar programas básicos através do REPL/clj e ser capaz de construir suas próprias funções e imprimir textos utilizando a linguagem Clojure.
+</p>
+
+<p>
+<b>Clojure-Introducao</b>   
+Objetivos:  
+</p>
+<ul>
+<li>
+Conhecer a proposta do curso, objetivos, metodologia e ferramentas.
+
+<li>
+Conhecer um breve histórico do paradigma funcional.
+
+<ul>
+<li>
+Conhecer a origem do LISP.
+
+<li>
+Conhecer a origem do Cálculo Lambda.
+
+</ul>
+<li>
+Conhecer a os princípios da linguagem Clojure.
+
+<li>
+Ser capaz de instalar o Clojure, entrar no REPL (clj) e executar as primeiras linhas de código.
+
+<ul>
+<li>
+Ser capaz de realizar operações matemáticas simples através do REPL.
+
+<li>
+Entender a função <em>println</em>.
+
+<ul>
+<li>
+Saber utilizar a função <em>str</em> para concatenar strings.
+
+</ul>
+</ul>
+</ul>
+
+<p>
+<b>Vetores</b>  
+</p>
+<ul>
+<li>
+Ser capaz de criar vetores com elementos do mesmo tipo e de tipos diferentes.
+
+<li>
+Conseguir contar o número de elementos de um vetor.
+
+<li>
+Conseguir incluir um elemento em um vetor.
+
+<li>
+Conseguir remover um elemento em um vetor.
+
+<li>
+Entender que vetores são imutáveis (persistentes).
+
+</ul>
+
+<p>
+<b>Criando nossas próprias funções</b>  
+</p>
+<ul>
+<li>
+Entender a estrutura da uma função (nome / parâmetros / corpo).
+
+<li>
+Ser capaz de criar uma função sem parâmetros.
+
+<li>
+Ser capaz de criar funções parametrizadas.
+
+<li>
+Aprender a consultar o código fonte de outras funções através da IDE.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 2: Imutabilidade"><h2 id="Parte 2: Imutabilidade" class="header"><b>Parte 2: Imutabilidade</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Entender a importância e os potenciais benefícios e impactos de se utilizar estruturas de dados imutáveis.
+</p>
+
+<p>
+<b>Imutabilidade</b>
+</p>
+<ul>
+<li>
+Entender as diferenças filosoficas entre Programação Funcional e Programação Orientada a Objetos.
+
+<li>
+Entender o problema da mutabilidade através de exemplos em JavaScript.
+
+<li>
+Entender o impacto da mutabilidade em códigos executados de forma concorrente.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 3: Funções puras"><h2 id="Parte 3: Funções puras" class="header"><b>Parte 3: Funções puras</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Entender o que são, como identificar e conhecer as vantagens das funções puras e os motivos de priorizarmos o seu uso em detrimento de funções impuras.
+</p>
+
+<p>
+<b>Funções puras</b>
+</p>
+<ul>
+<li>
+Entender o que são funções puras e efeitos colaterais.
+
+<li>
+Conseguir identificar funções puras e impuras.
+
+<li>
+Compreender que funções puras podem ser executadas paralelamente de forma segura.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 4: Conhecendo o let"><h2 id="Parte 4: Conhecendo o let" class="header"><b>Parte 4: Conhecendo o let</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Conhecer o <em>let</em> e entender a importância de extraírmos símbolos e ter noções também de escopo das definições.
+</p>
+
+<p>
+<b>Binding de símbolos com let</b>
+</p>
+<ul>
+<li>
+Aprender a fazer um <em>binding</em> de um símbolo para um valor.
+
+<li>
+Perceber as vantagens de um código mais limpo quando extraímos constantes e damos nomes para elas através de símbolos.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 5: Condicionais"><h2 id="Parte 5: Condicionais" class="header"><b>Parte 5: Condicionais</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Aprender a criar expressões condicinais em duas diversas formas em Clojure e entender o que é uma expressão condicional.
+</p>
+
+<p>
+<b>Condicionais</b>
+</p>
+<ul>
+<li>
+Entender a estrutura do <em>if</em>.
+
+<li>
+Aprender as diferentes formas de se fazer condicionais simples utilizando o <em>if</em>.
+
+<ul>
+<li>
+Utilizando <em>if</em> e <em>else</em>.
+
+<li>
+Apenas com <em>if</em> sem o <em>else</em>.
+
+<li>
+Retornando diretamente um booleano.
+
+</ul>
+<li>
+Compreender que o <em>if</em> funciona de forma similar a uma função (embora seja uma <em>special form</em>).
+
+<li>
+Conhecer o conceito de <em>predicate</em>.
+
+<li>
+Começar a compreender que o <em>nil</em> pode ser visto como um <em>falsey</em>.
+
+<li>
+Aprender a criar condicionais usando o <em>when</em>.
+
+</ul>
+
+<p>
+<b>Statements versus Expressions</b>
+</p>
+<ul>
+<li>
+Compreender as diferenças entre uma <em>conditional statement</em> e uma <em>conditional expression</em>.
+
+<li>
+Ser capaz de perceber as diferenças através de exemplos em JavaScript.
+
+<li>
+Entender as vantagens da <em>conditional expression</em>.
+
+<li>
+Ter noções das diferenças entre um código imperativo versus declarativo.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 6: Introdução aos testes automatizados"><h2 id="Parte 6: Introdução aos testes automatizados" class="header"><b>Parte 6: Introdução aos testes automatizados</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Entender a importância de se criar testes, como criá-los utilizando Clojure e noções de TDD (Desenvolvimento Guiado por Testes).
+</p>
+
+<p>
+<b>Testes Automatizados e Asserts</b>
+</p>
+<ul>
+<li>
+Entender a importância de automatiazar os testes.
+
+<li>
+Criar seus primeiros testes automatizados.
+
+<li>
+Compreender para que servem e como utilizar os <em>asserts</em>.
+
+<li>
+Aprender as noções sobre o processo de Desenvolvimento Guiado por Testes.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 7: Thuthy e Falsey"><h2 id="Parte 7: Thuthy e Falsey" class="header"><b>Parte 7: Thuthy e Falsey</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Entender que em Clojure existe o tipo boleano (true/false) mas existem muitas ocasiões onde a interepretação do que é <em>true</em> e o que é <em>false</em> é um pouco mais abrangente e nessas situações, ao invés de utilizarmos os termos <em>true</em> e <em>false</em> usando o <em>thuthy</em> e <em>falsey</em>.
+</p>
+
+<p>
+<b>True, False, Thuthy, Falsey</b>
+</p>
+<ul>
+<li>
+Compreender a relação entre <em>True</em>, <em>False</em> e as semelhanças e diferenças com <em>Thuthy</em> e <em>Falsey</em>.
+
+<li>
+Perceber porque existe o conceito de <em>Thuthy</em> e <em>Falsey</em> em Clojure e como podemos nos beneficiar deles.
+
+<li>
+Ser capaz de identificar se trata-se de um <em>True/False</em> ou um <em>Thuthy/Falsey</em>.
+
+</ul>
+ 
+<div id="Clojure: Introdução à Programação Funcional-Parte 8: Conhecendo mais sobre os vetores"><h2 id="Parte 8: Conhecendo mais sobre os vetores" class="header"><b>Parte 8: Conhecendo mais sobre os vetores</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Ser capaz de realizar mais operações utilizando vetores e conhecer a ideia da abordagem <em>wholemeal</em> (refeição completa).
+</p>
+
+<p>
+<b>Mais sobre Vetores</b>  
+</p>
+<ul>
+<li>
+Relembrar os conceitos de <em>conj</em> e <em>pop</em>.
+
+<li>
+Conseguir recuperar um elemento que está em uma determinada posição/index.
+
+<li>
+Entender as diferenças entre utilizar a função <em>get</em> e o nome do vetor como função.
+
+<li>
+Entender os problemas possíveis de <em>IndexOutOfBoundsException</em>.
+
+<li>
+Ser capaz de atribuir um valor padrão caso elemento que está sendo recuperado não exista.
+
+<li>
+Conseguir "atualizar" um elemento de um vetor.
+
+</ul>
+
+<p>
+<b>Wholemeal</b>
+</p>
+<ul>
+<li>
+Entender que é ótimo podermos acessar elementos de uma estrutura de dados, mas que na maior parte do tempo (no paradigma funcional) queremos trabalhar com uma visão um pouco mais ampla, enchergando e operando sobre a estrutura de dados como um todo.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 9: Linguagem dinâmica e consulta de tipos"><h2 id="Parte 9: Linguagem dinâmica e consulta de tipos" class="header"><b>Parte 9: Linguagem dinâmica e consulta de tipos</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Conhecer as vantagens e desvantagens de Clojure ser uma linguagem dinâmica e ser capaz de consultar os tipos através do REPL.
+</p>
+
+<p>
+<b>Tipos dos dados</b>
+</p>
+<ul>
+<li>
+Entender que Clojure é uma linguagem Dinâmica e com inferência de tipos.
+
+<li>
+Aprender a consultar os tipos.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 10: Utilizando uma IDE"><h2 id="Parte 10: Utilizando uma IDE" class="header"><b>Parte 10: Utilizando uma IDE</b></h2></div>
+
+<p>
+Objetivos:  
+</p>
+
+<p>
+Conseguir instalar e configurar a IDE IntelliJ e o plugin Curvice e conhecer os prinpais atalhos e se tornar capaz de navegar pela IDE, incluindo criar novos projetos, escrever códigos e executá-los através do REPL integrado à IDE.
+</p>
+
+<p>
+<b>Instalando o IntelliJ e o plugin Cursive</b>
+</p>
+<ul>
+<li>
+Entender as vantagens de se utilizar uma IDE.
+
+<li>
+Quais opções temos disponíveis de IDE/Editores.
+
+<li>
+Instalar a IDE IntelliJ Community e o plugin Cursive.
+
+<li>
+Criar o primeiro projeto pela IDE.
+
+<li>
+Abrir o REPL dentro da IDE.
+
+<li>
+Carregar as funções do arquivo que está sendo editado.
+
+<li>
+Executar uma função dentro do REPL.
+
+</ul>
+
+<p>
+<b>Atalhos do IntelliJ e Cursive</b>
+</p>
+<ul>
+<li>
+Ser capaz de executar através de atalhos do teclado os comandos que vamos usar com mais frequencia. 
+
+<li>
+Entender pra que serve o <em>Structural edit</em> (também conhecido como <em>paredit</em>).
+
+<li>
+Aprender a desabilitar o <em>Structurla edit</em> quando necessário.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 11: Namespaces, símbolos e funções privadas"><h2 id="Parte 11: Namespaces, símbolos e funções privadas" class="header"><b>Parte 11: Namespaces, símbolos e funções privadas</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Começar a compreender a importância de estruturar o código, separando as funções em arquivos e <em>namespaces</em> diferentes.
+</p>
+
+<p>
+<b>O que é e como definir um namespace</b>
+</p>
+<ul>
+<li>
+Entender a importância de separarmos nossas funções em <em>namespaces</em> diferentes.
+
+<li>
+Ser capaz de definir um <em>namespace</em>.
+
+<li>
+Conhecer o tipo <em>Symbol</em>.
+
+<li>
+Entender as diferenças entre os tipos <em>Symbol</em> e <em>Keyword</em>.
+
+<li>
+Conseguir importar uma funções de um outro <em>namespace</em>.
+
+<li>
+Conseguir mudar de <em>namespace</em> no REPL dentro da IDE.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 12: Higher order functions"><h2 id="Parte 12: Higher order functions" class="header"><b>Parte 12: Higher order functions</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Começar a ter contato com funções de primeira ordem: entender o que são e como criá-las e a sua importância no desenvolvimento de software utilizando o paradigma funcional.
+</p>
+
+<ul>
+<li>
+Compreender que é possível passar a referência de uma função como parâmetro de outra função.
+
+<li>
+Entender as vantagens e desvantagens das funções anônimas.
+
+<li>
+Aprender a criar funções anônimas (lambda):
+
+<ul>
+<li>
+usando o <em>fn</em>.
+
+<li>
+usando # e %, %1, %2...
+
+</ul>
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 13: Map, Filter, Reduce"><h2 id="Parte 13: Map, Filter, Reduce" class="header"><b>Parte 13: Map, Filter, Reduce</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Ter os primeiros contatos com 3 funções fundamentais para o desenvolvimento de software no paradigma funcional: <em>map</em>, <em>filter</em> e <em>reduce</em>.
+</p>
+
+<ul>
+<li>
+Compreender que na programação funcional trabalhamos com o conceito de transformação.
+
+<li>
+Conseguir perceber as vantagens de solucionar problemas de forma menos imperativa.
+
+<li>
+Entender a diferença entre um laço explícito e um implícito.
+
+<li>
+Conseguir filtrar os elementos de um vetor de acordo com um predicado.
+
+<li>
+Ser capaz de transformar (reduzir) todos os elementos de um vetor em um único dado.
+
+<li>
+Conseguir mesclar o uso de maps, filters e reduce.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 14: Mapas"><h2 id="Parte 14: Mapas" class="header"><b>Parte 14: Mapas</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Conhecer e saber como e quando utilizar uma das principais estruturas de dados do Clojure: os mapas. 
+</p>
+
+<ul>
+<li>
+Compreender as limitações dos vetores.
+
+<li>
+Aprender a construir um mapa.
+
+<li>
+Conhecer o conceito de <em>keyword</em>.
+
+<li>
+Compreender porque é interessante usar uma <em>keyword</em> como chave do mapa.
+
+<li>
+Entender quando usar um vetor e quando utilizar um mapa.
+
+<li>
+Conseguir contar a quantidade de elementos de um mapa.
+
+<li>
+Aprender a listar as chaves e os valores de um mapa.
+
+<li>
+Conhecer que existem outros tipos, como por exemplo o tipo ValSeq.
+
+<li>
+Ser capaz de associar um novo valor em um mapa.
+
+<li>
+Ser capaz de atualizar um valor de um mapa (usando <em>assoc</em> e <em>update</em>).
+
+<li>
+Ser capaz de remover um valor de um mapa (<em>dessoc</em>).
+
+</ul>
+ 
+<div id="Clojure: Introdução à Programação Funcional-Parte 15: Mais sobre os Mapas"><h2 id="Parte 15: Mais sobre os Mapas" class="header"><b>Parte 15: Mais sobre os Mapas</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Explorar mais a fundo esta que é uma das estruturas de dados mais utilizadas durante o desenvolvimento de softwares quando estamos utilizando a linguagem Clojure.
+</p>
+
+<ul>
+<li>
+Compreender que mapas podem ser complexos e conter vários níveis.
+
+<li>
+Conseguir criar e manipular mapas que contenham um vetor como valor de uma de suas chaves.
+
+<li>
+Conseguir criar e manipular mapas que contenham um outro mapa como valor de uma de suas chaves.
+
+<li>
+Ser capaz de recuperar um elemento do mapa usando:
+
+<ul>
+<li>
+<em>get</em>.
+
+<li>
+o mapa como se fosse uma função.
+
+<li>
+e a forma mais comum: invertendo a ordem e usando a chave como se fosse uma função.
+
+</ul>
+<li>
+Entender que é perigoso usar a opção de mapa como se fosse uma função já que ela pode ser nula.
+
+<li>
+Aprender a obter um elemento do mapa com um valor padrão caso não encontre.
+
+<li>
+Aprender a obter um elemento do mapa com um valor padrão caso não encontre.
+
+<li>
+Conseguir obter o valor de uma chave que está aninhada dentro de um mapa (:chave1 (:chave2 mapa)).
+
+<li>
+Conseguir atualizar o valor de uma chave que está aninhada dentro de um mapa, utilizando <em>update-in</em>.
+
+</ul>
+ 
+<div id="Clojure: Introdução à Programação Funcional-Parte 16: Threading: uma outra forma de encadear funções"><h2 id="Parte 16: Threading: uma outra forma de encadear funções" class="header"><b>Parte 16: Threading: uma outra forma de encadear funções</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Perceber que a composição de muitas funções pode tornar a leitura do código muito complicada e saber aplicar o conceito de <em>Threading first</em> para compor funções de uma forma mais simples.
+</p>
+
+<ul>
+<li>
+Perceber as situações onde a legibilidade do código fica comprometida pelo volume de composições de chamadas de muitas funções.
+
+<li>
+Ser capaz de executar composição de funções usando <em>Threading first</em>.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 17: Calculo IMC"><h2 id="Parte 17: Calculo IMC" class="header"><b>Parte 17: Calculo IMC</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Ser capaz de acompanhar o desenvolvimento de um software simples utilizando as técnicos como TDD e REPL Driven Development.
+</p>
+
+<p>
+<b>Exemplo IMC com Clojure</b>
+</p>
+<ul>
+<li>
+Conhecer um código de uma funcionalidade real e criada usando TDD e REPL driven development.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 18: Funções públicas e privadas"><h2 id="Parte 18: Funções públicas e privadas" class="header"><b>Parte 18: Funções públicas e privadas</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Aprender noções de boas práticas de visibilidade das funções e compreender quando uma funções deve ser definida como pública e quando pode ser privada.
+</p>
+
+<ul>
+<li>
+Entender os potencias problemas de deixar todas as funções como públicas.
+
+<li>
+Aprender a criar funções privadas.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 19: Mais sobre mapas, map, filter e reduce: Loja de brinquedos"><h2 id="Parte 19: Mais sobre mapas, map, filter e reduce: Loja de brinquedos" class="header"><b>Parte 19: Mais sobre mapas, map, filter e reduce: Loja de brinquedos</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Ser capaz de acompanhar o desenvolvimento de um outro software explorando mais o uso de estrutura de dados mapa e as funções <em>map</em>, <em>filter</em> e <em>reduce</em>.
+</p>
+
+<p>
+<b>Exemplo Calculo preço total da compra em uma loja de brinquedos</b>
+</p>
+<ul>
+<li>
+Conhecer outro exemplo mais próximo do real: dado uma estrutura de dados com os brinquedos que estamos comprando, queremos calcular o preço total da compra.
+
+<li>
+Praticar mais o uso de Threading, trabalhar com mapas e utilizar o filter, map e reduce.
+
+</ul>
+
+<div id="Clojure: Introdução à Programação Funcional-Parte 20: Conclusões"><h2 id="Parte 20: Conclusões" class="header"><b>Parte 20: Conclusões</b></h2></div>
+
+<p>
+Objetivos:
+</p>
+
+<p>
+Conhecer os possíveis caminhos para continuar os estudos da linguagem Clojure e do Paradigma Funcional.
+</p>
+
+<ul>
+<li>
+Conhecer e ser capaz de procurar informações no clojuredocs.org
+
+<li>
+Conhecer livros onde pode dar continuidade de seus estudos.
+
+</ul>
+
+<div id="Sobre o autor"><h1 id="Sobre o autor" class="header"><b>Sobre o autor</b></h1></div>
+
+<p>
+Meu nome é Marcio Frayze David e sou autor deste curso.
+</p>
+  
+<p>
+Me formei em Ciência da Computação em 2005 e terminei meu mestrado em Engenharia Elétrica
+(com ênfase em Inteligência Artificial) em 2009.  
+</p>
+
+<p>
+Desenvolvo softwares há mais de uma década. Desde 2009 trabalho como
+analista de sistemas no Serviço Federal de Processamento de Dados
+(SERPRO), onde ajudo diversas equipes a
+implementar soluções para clientes como a Receita Federal do Brasil e
+o Departamento Nacional de Trânsito (DENATRAN).  
+Embora durante a maior parte do meu trabalho passe desenvolvendo softwares
+no <span id="Sobre o autor-backend"></span><strong id="backend">backend</strong>, também desenvolvo <span id="Sobre o autor-frontends"></span><strong id="frontends">frontends</strong> e aplicativos móveis (para iOS e
+Android).
+</p>
+
+</body>
+</html>
