@@ -68,6 +68,24 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 ---
 
 ## Palestras realizadas
+**Título**: Flutter e Java no Serpro.  
+**Evento**: Participação no Podcast Hipsters On The Road #59.  
+**Local**: Online (durante quarentena).  
+**Data**: 04/06/2021.  
+**Link**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59/
+
+**Título**: Conhecendo os bastidores do App Carteira Digital de Trânsito (CDT).  
+**Evento**: The Developers Conference (TDC) Innovation. Trilha Stadium.  
+**Local**: Online (durante quarentena).  
+**Data**: 25/03/2021.  
+**Link**: https://www.youtube.com/watch?v=_IMXkedQdHg
+
+**Título**: Faça deploy sexta-feira à tarde.
+**Evento**: The Developers Conference (TDC) Innovation. Trilha Design de Código e XP.  
+**Local**: Online (durante quarentena).  
+**Data**: 25/03/2021.  
+**Link**: https://www.youtube.com/watch?v=RWMvKt-rn8A
+
 **Título**: Conhecendo os bastidores do app CDT (Carteira Digital de Trânsito).  
 **Subtítulo**: Como foi a implementação de um App em flutter para 8 milhões de usuárias.  
 **Evento**: Semana da Ciência e Tecnologia, Instituto Federal de Mato Grosso do Sul (IFMS).  
@@ -107,7 +125,7 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 
 ## Formação e produção acadêmica
 ### Mestrado
-Engenharia Elétrica (com ênfase em Inteligência Artificial) pela Universidade
+Engenharia Elétrica (com ênfase em Inteligência Artificial) pela Universidade  
 Presbiteriana Mackenzie em 2010.  
 **Título da dissertação**: Um algoritmo bioinspirado para agrupamento de dados.  
 Disponível para baixar [aqui](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf).

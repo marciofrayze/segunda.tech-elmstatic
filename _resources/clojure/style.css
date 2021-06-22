@@ -10,10 +10,18 @@ html {
     font-family:Open Sans, Arial, sans-serif;
     font-size:20px;
     margin: auto;
+    margin-top: 1em;
 }
 
 body {
     display: table-cell;
     vertical-align: middle;
     padding: 1em;
+    border: #bfbfbf;
+    border-style: solid;
+    border-width: thin;
+}
+
+h1 {
+   margin: 0.5em;
 }

@@ -66,6 +66,24 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 ---
 
 ## Talks
+**Title**: Flutter and Java at Serpro (Brazilian Federal Data Processing Service).  
+**Event**: Participation in the Hipsters On The Road Podcast #59.  
+**Local**: Online (during quarantine).  
+**Date**: 2021/06/04.  
+**Link**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59/
+
+**Título**: The backstage of the Digital Traffic Wallet App (CDT).  
+**Evento**: The Developers Conference (TDC) Innovation. Stadium track.  
+**Local**: Online (during quarantine).  
+**Data**: 25/03/2021.  
+**Link**: https://www.youtube.com/watch?v=_IMXkedQdHg
+
+**Título**: Deploy Friday afternoon.  
+**Evento**: The Developers Conference (TDC) Innovation. Code Design and XP track.  
+**Local**: Online (during quarantine).  
+**Data**: 25/03/2021.  
+**Link**: https://www.youtube.com/watch?v=RWMvKt-rn8A
+
 **Title**: The backstage of the CDT (Digital Traffic Wallet) app.  
 **Subtitle**: How was the implementation of a flutter App for 8 million users.  
 **Event**: Science and Technology Week, Federal Institute of Mato Grosso do Sul (IFMS).  
