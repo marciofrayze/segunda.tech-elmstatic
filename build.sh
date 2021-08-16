@@ -7,4 +7,10 @@ echo "Removendo links na página do curso de Clojure"
 sed -i 's/<a[^>]*>/<b>/g' ./_site/clojure/index.html 
 sed -i 's/<\/a[^>]*>/<\/b>/g' ./_site/clojure/index.html
 
+echo "Adicionando favicon personalizado para curso de Clojure"
+sed -i 's#</head>#<link rel="shortcut icon" type="image/x-icon" href="/clojure/favicon.ico" /></head>#g' ./_site/clojure/index.html
+
+echo "Copiando feedrss"
 cp _site/rss.xml _site/feedrss.xml
+
+echo "Build finalizada"

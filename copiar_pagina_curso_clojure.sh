@@ -1,2 +1,2 @@
-cp "../anotacoes-segunda.tech/public/Curso clojure dev br.html" ./_resources/clojure/index.html
+cp "../anotacoes-segunda.tech/public/Curso de clojure.html" ./_resources/clojure/index.html
 

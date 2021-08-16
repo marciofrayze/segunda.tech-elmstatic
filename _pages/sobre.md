@@ -80,7 +80,7 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 **Data**: 25/03/2021.  
 **Link**: https://www.youtube.com/watch?v=_IMXkedQdHg
 
-**Título**: Faça deploy sexta-feira à tarde.
+**Título**: Faça deploy sexta-feira à tarde.  
 **Evento**: The Developers Conference (TDC) Innovation. Trilha Design de Código e XP.  
 **Local**: Online (durante quarentena).  
 **Data**: 25/03/2021.  

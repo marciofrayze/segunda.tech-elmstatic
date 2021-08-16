@@ -14,4 +14,5 @@ Spotify:
 https://open.spotify.com/episode/2YHclMG8MtPQi2wk5nur87
 
 Apple Podcasts:
-https://podcasts.apple.com/br/podcast/hipsters-ponto-tech/id1133325943
+https://podcasts.apple.com/br/podcast/flutter-e-java-no-serpro-hipsters-on-the-road-59/id1133325943?i=1000524175427
+
