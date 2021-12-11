@@ -25,19 +25,24 @@ and I keep studying it and perfecting my skills.
 
 ### JavaScript
 Main language I use to develop frontends together with
-with *Vue.js*, *hypperapp* and *react*.
+with *Vue.js*, *hyperapp* and *react*.
 
 ### Flutter / Kotlin / Swift
 I had the opportunity to participate in the development of some mobile applications
 using various technologies, the main one being the *framework* 
 [Flutter](https://flutter.dev).
 
+### Clojure
+I am studying this language and I am in the process of creating the course [Clojure: Introduction to Functional Programming](https://segunda.tech/clojure).
+
 ### Ruby
 In the past I have used this language a lot and even created [a *web framework*](https://github.com/marciofrayze/rackstep) with it.
 
 ### Elm
-Although I have not used it in any major project, I am a fan of this language
-and its community.
+Although I have not used it in any major project, I am a fan of this language and its community.
+
+### Haskell
+I'm new to this language, but I admire the ideas and conceptions behind it. Studying it has helped me better understand the functional paradigm and have helped me become a better programmer in general.
 
 ### Docker / Kubernetes
 I work with DevOps practices, which requires a certain knowledge in this technologies, but
@@ -57,8 +62,7 @@ In addition, I am interested in extreme programming and software architecture.
 
 ## Studies
 I keep up to date through several different sources, including
-taking online courses on platforms such as 
-[PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) and [egghead.io](https://egghead.io),
+taking online courses on platforms such as [Alura](https://alura.com.br), [PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) and [egghead.io](https://egghead.io),
 but my favorite source still remains the books. That's why I created
 a [podcast](https://segunda.tech/tags/podcast/) to talk only about the 
 books that influenced my career. I am also one of the founders of [p de Podcast (p is for Podcast)](https://anchor.fm/pdepodcast/), a podcast (in brazilian portuguese) where we talk about Software Architecture and good programming practices.
@@ -66,11 +70,17 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 ---
 
 ## Talks
+**Title**: The use of Flutter in the Brazilian Digital Driver's license.  
+**Event**: Flutter Brasil 2021.  
+**Local**: Online (during quarantine).    
+**Date**: 2021/09/17.  
+**Link**: https://youtu.be/OSex7G3wXg4?t=9071  
+
 **Title**: Flutter and Java at Serpro (Brazilian Federal Data Processing Service).  
 **Event**: Participation in the Hipsters On The Road Podcast #59.  
 **Local**: Online (during quarantine).  
 **Date**: 2021/06/04.  
-**Link**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59/
+**[Link](Link)**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59
 
 **Título**: The backstage of the Digital Traffic Wallet App (CDT).  
 **Evento**: The Developers Conference (TDC) Innovation. Stadium track.  
@@ -87,6 +97,7 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 **Title**: The backstage of the CDT (Digital Traffic Wallet) app.  
 **Subtitle**: How was the implementation of a flutter App for 8 million users.  
 **Event**: Science and Technology Week, Federal Institute of Mato Grosso do Sul (IFMS).  
+**Local**: Online (during quarantine).  
 **Date**: 2020/10/21.  
 
 **Title**: Design Patterns in the real world.  

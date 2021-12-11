@@ -27,12 +27,15 @@ profissional e continuo estudando-a e aperfeiçoando minhas habilidades.
 
 ### JavaScript
 Principal linguagem que utilizo para desenvolver *frontends* em conjunto com
-com *Vue.js*, *hypperapp* e *react*.
+com *Vue.js*, *hyperapp* e *react*.
 
 ### Flutter / Kotlin / Swift
 Tive a oportunidade de participar do desenvolvimento de alguns aplicativos
 móveis utilizando diversas tecnologias, sendo a principal delas o *framework* 
 [Flutter](https://flutter.dev).
+
+### Clojure
+Tenho estudado esta linguagem e estou em processo de criação do curso [Clojure: Introdução à Programação Funcional](https://segunda.tech/clojure).
 
 ### Ruby
 No passado utilizei bastante esta linguagem e inclusive criei [um *framework web*](https://github.com/marciofrayze/rackstep) com ela.
@@ -40,6 +43,9 @@ No passado utilizei bastante esta linguagem e inclusive criei [um *framework web
 ### Elm
 Embora não a tenha utilizado em nenhum grande projeto, sou fã desta linguagem
 e de sua comunidade.
+
+### Haskell
+Sou iniciante nesta linguagem, mas admiro suas ideias e concepções. Estuda-la me ajudou a entender melhor o paradigma funcional e têm me ajudado a me tornar um programador melhor em geral.
 
 ### Docker / Kubernetes
 Trabalho com práticas DevOps, o que exige um certo conhecimento nessas tecnologias, mas
@@ -59,8 +65,7 @@ Além disso, tenho me interesso também por programação extrema e arquitetura 
 
 ## Estudos
 Me mantenho atualizado através de diversas fontes diferentes, entre elas
-fazendo cursos *online* em plataformas como a 
-[PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) e [egghead.io](https://egghead.io),
+fazendo cursos *online* em plataformas como a [Alura](https://alura.com.br), [PluralSight](https://pluralsight.com), [Coursera](https://coursera.org) e [egghead.io](https://egghead.io),
 mas minha fonte preferida ainda continua sendo os livros. Por isso mesmo, criei
 um [podcast](https://segunda.tech/tags/podcast/) para falar apenas sobre os
 livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [p de Podcast](https://anchor.fm/pdepodcast/), um podcast onde falamos sobre Arquitetura de Software e boas práticas de programação.
@@ -68,11 +73,17 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 ---
 
 ## Palestras realizadas
+**Título**: A caminhada do uso do Flutter na CDT.  
+**Evento**: Flutter Brasil 2021.  
+**Local**: Online (durante quarentena).  
+**Data**: 17/09/2021.  
+**Link**: https://youtu.be/OSex7G3wXg4?t=9071  
+
 **Título**: Flutter e Java no Serpro.  
 **Evento**: Participação no Podcast Hipsters On The Road #59.  
 **Local**: Online (durante quarentena).  
 **Data**: 04/06/2021.  
-**Link**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59/
+**Link**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59
 
 **Título**: Conhecendo os bastidores do App Carteira Digital de Trânsito (CDT).  
 **Evento**: The Developers Conference (TDC) Innovation. Trilha Stadium.  
