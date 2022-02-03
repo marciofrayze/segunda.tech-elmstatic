@@ -1,6 +1,6 @@
 ---
 title: "Schedule chicken"
-tags: artigo extremeprogramming english
+tags: english artigo extremeprogramming
 ---
 
 Sometimes we are faced with situations in which two or more people are working with a common goal and there is a mutual dependence on delivery: the work of one person cannot be deployed without the other fulfilling the agreed and vice versa. In this scenario, if one of the people delays his or her part, all delivery is compromised. 

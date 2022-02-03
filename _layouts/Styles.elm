@@ -65,7 +65,7 @@ styles =
                 [ ul
                     [ margin <| px 0
                     , padding <| px 0
-                    , wideScreen [ lineHeight <| px 100 ]
+                    , wideScreen [ lineHeight <| px 45 ]
                     ]
                 , li
                     [ display inlineBlock

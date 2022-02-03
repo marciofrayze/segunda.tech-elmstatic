@@ -5633,11 +5633,11 @@ var $author$project$Page$header = _List_fromArray(
 								$elm$html$Html$a,
 								_List_fromArray(
 									[
-										$elm$html$Html$Attributes$href('/sobre')
+										$elm$html$Html$Attributes$href('/clojure')
 									]),
 								_List_fromArray(
 									[
-										$elm$html$Html$text('Sobre')
+										$elm$html$Html$text('Curso de Clojure')
 									]))
 							])),
 						A2(
@@ -5649,11 +5649,27 @@ var $author$project$Page$header = _List_fromArray(
 								$elm$html$Html$a,
 								_List_fromArray(
 									[
-										$elm$html$Html$Attributes$href('/clojure')
+										$elm$html$Html$Attributes$href('https://elm.dev.br')
 									]),
 								_List_fromArray(
 									[
-										$elm$html$Html$text('Curso de Clojure')
+										$elm$html$Html$text('Programação para Iniciantes')
+									]))
+							])),
+						A2(
+						$elm$html$Html$li,
+						_List_Nil,
+						_List_fromArray(
+							[
+								A2(
+								$elm$html$Html$a,
+								_List_fromArray(
+									[
+										$elm$html$Html$Attributes$href('/sobre')
+									]),
+								_List_fromArray(
+									[
+										$elm$html$Html$text('Sobre')
 									]))
 							])),
 						A2(
@@ -9026,7 +9042,7 @@ var $author$project$Styles$styles = function () {
 											_List_fromArray(
 												[
 													$rtfeldman$elm_css$Css$lineHeight(
-													$rtfeldman$elm_css$Css$px(100))
+													$rtfeldman$elm_css$Css$px(45))
 												]))
 										])),
 									$rtfeldman$elm_css$Css$Global$li(

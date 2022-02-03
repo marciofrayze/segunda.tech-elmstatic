@@ -8,7 +8,7 @@ body {
     grid-gap: 20px 0;
     gap: 20px 0;
     grid-template-columns: minmax(1fr, 100vw);
-    grid-template-rows: 100px 50px 0 auto 0 80px;
+    grid-template-rows: 80px 80px 0 auto 0 80px;
     grid-template-areas:
         "header-logo"
         "navigation"

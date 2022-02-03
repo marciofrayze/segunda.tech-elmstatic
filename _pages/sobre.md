@@ -10,7 +10,7 @@ Desenvolvo softwares há mais de uma década. Desde 2009 trabalho como
 analista de sistemas no Serviço Federal de Processamento de Dados
 ([SERPRO](https://serpro.gov.br)), onde ajudo diversas equipes a
 implementar soluções para clientes como a Receita Federal do Brasil e
-o Departamento Nacional de Trânsito (DENATRAN). Nesta empresa atuei
+o Secretaria Nacional de Trânsito (SENATRAN). Nesta empresa atuei
 em muitas soluções, incluindo o desenvolvimento do aplicativo
 [Carteira Digital de Trânsito (CDT)](https://servicos.serpro.gov.br/carteira-digital/).  
 Embora durante a maior parte do meu trabalho passe desenvolvendo softwares
