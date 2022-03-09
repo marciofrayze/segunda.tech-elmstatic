@@ -33,13 +33,13 @@ using various technologies, the main one being the *framework*
 [Flutter](https://flutter.dev).
 
 ### Clojure
-I am studying this language and I am in the process of creating the course [Clojure: Introduction to Functional Programming](https://segunda.tech/clojure).
+I really like this language and I'm the creator of the course [Clojure: Introduction to Functional Programming](https://segunda.tech/clojure).
 
 ### Ruby
 In the past I have used this language a lot and even created [a *web framework*](https://github.com/marciofrayze/rackstep) with it.
 
 ### Elm
-Although I have not used it in any major project, I am a fan of this language and its community.
+Although I have not used it in any major project, I am a big fan of this language and its community.
 
 ### Haskell
 I'm new to this language, but I admire the ideas and conceptions behind it. Studying it has helped me better understand the functional paradigm and have helped me become a better programmer in general.
@@ -53,7 +53,7 @@ it's a subject I'm still on an intermediate level.
 ## Interests
 I listed just a few of the various technologies I studied throughout
 my career, but I've always prioritized the concepts above all else. So,
-I pay special attention to the studies of paradigms and good programming practices (clean code).  
+I pay special attention to the studies of paradigms and good programming practices.  
 For many years my focus was on object-oriented programming, but in
 recent years I have also begun to study a lot about the functional paradigm.  
 In addition, I am interested in extreme programming and software architecture.  
@@ -70,6 +70,18 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 ---
 
 ## Talks
+**Title**: Brief history of Agile in Brazil.  
+**Event**: Guest in the Hipsters ponto Tech Podcast #295.  
+**Local**: Online (during quarantine).  
+**Date**: 2022/03/08.  
+**Link**: https://hipsters.tech/breve-historia-do-agile-no-brasil-hipsters-ponto-tech-295  
+
+**Title**: Architecture and Systems Practices without Downtime.  
+**Event**: Guest in the Hipsters ponto Tech Podcast #290.  
+**Local**: Online (during quarantine).  
+**Date**: 2022/01/02.  
+**Link**: https://hipsters.tech/arquitetura-e-praticas-de-sistemas-sem-downtime-hipsters-ponto-tech-290  
+
 **Title**: The use of Flutter in the Brazilian Digital Driver's license.  
 **Event**: Flutter Brasil 2021.  
 **Local**: Online (during quarantine).    
@@ -77,10 +89,10 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 **Link**: https://youtu.be/OSex7G3wXg4?t=9071  
 
 **Title**: Flutter and Java at Serpro (Brazilian Federal Data Processing Service).  
-**Event**: Participation in the Hipsters On The Road Podcast #59.  
+**Event**: Guest in the Hipsters On The Road Podcast #59.  
 **Local**: Online (during quarantine).  
 **Date**: 2021/06/04.  
-**[Link](Link)**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59
+**Link**: https://hipsters.tech/flutter-e-java-no-serpro-hipsters-on-the-road-59
 
 **Título**: The backstage of the Digital Traffic Wallet App (CDT).  
 **Evento**: The Developers Conference (TDC) Innovation. Stadium track.  

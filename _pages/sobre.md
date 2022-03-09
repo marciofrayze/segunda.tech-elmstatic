@@ -35,7 +35,7 @@ móveis utilizando diversas tecnologias, sendo a principal delas o *framework*
 [Flutter](https://flutter.dev).
 
 ### Clojure
-Tenho estudado esta linguagem e estou em processo de criação do curso [Clojure: Introdução à Programação Funcional](https://segunda.tech/clojure).
+Gosto bastante desta linguagem e sou instrutor do curso [Clojure: Introdução à Programação Funcional](https://segunda.tech/clojure).
 
 ### Ruby
 No passado utilizei bastante esta linguagem e inclusive criei [um *framework web*](https://github.com/marciofrayze/rackstep) com ela.
@@ -72,7 +72,19 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 
 ---
 
-## Palestras realizadas
+## Participações em eventos e podcasts
+**Título**: Participação no Hipsters.Tech: Breve história do Agile no Brasil.  
+**Evento**: Participação no Podcast Hipsters ponto Tech #295.  
+**Local**: Online (durante quarentena).  
+**Data**: 08/03/2022.  
+**Link**: https://hipsters.tech/breve-historia-do-agile-no-brasil-hipsters-ponto-tech-295  
+
+**Título**: Participação no Hipsters.Tech: Arquitetura e Práticas de Sistemas sem Downtime.  
+**Evento**: Participação no Podcast Hipsters ponto Tech #290.  
+**Local**: Online (durante quarentena).  
+**Data**: 01/02/2022.  
+**Link**: https://hipsters.tech/arquitetura-e-praticas-de-sistemas-sem-downtime-hipsters-ponto-tech-290  
+
 **Título**: A caminhada do uso do Flutter na CDT.  
 **Evento**: Flutter Brasil 2021.  
 **Local**: Online (durante quarentena).  
