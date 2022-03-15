@@ -15,9 +15,34 @@
         "language": "pt-br",
         "generator": "Elmstatic",
         "author": {
-          "name": "Marcio Frayze David",
-          "link": "https://segunda.tech/about"
+            "name": "Marcio Frayze David",
+            "link": "https://segunda.tech/about"
         }
     },
-    "tags": ["podcast", "artigo", "vídeo", "programaçãofuncional", "arquitetura", "liderança", "poo", "web", "tdd", "java", "javascript", "integraçãocontínua", "spa", "vim", "flutter", "extremeprogramming", "english", "curso", "clojure", "fantasyconsole", "pico-8", "tic-80", "elm"]
+    "tags": [
+        "podcast",
+        "artigo",
+        "vídeo",
+        "programaçãofuncional",
+        "arquitetura",
+        "liderança",
+        "poo",
+        "web",
+        "tdd",
+        "java",
+        "javascript",
+        "integraçãocontínua",
+        "spa",
+        "vim",
+        "flutter",
+        "extremeprogramming",
+        "english",
+        "curso",
+        "clojure",
+        "fantasyconsole",
+        "pico-8",
+        "tic-80",
+        "elm",
+        "pomodoro"
+    ]
 }
