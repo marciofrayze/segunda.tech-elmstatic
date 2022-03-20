@@ -1,6 +1,6 @@
 ---
 title: "Participação no Hipsters.Talks: Programação Funcional"
-tags: programaçãofuncional clojure vídeo 
+tags: vídeo hipsters programaçãofuncional clojure 
 ---
 
 Fui convidado para falar sobre o paradigma Funcional junto com a Charlotte Lorelei no canal Hipsters.Talks do grupo Alura.

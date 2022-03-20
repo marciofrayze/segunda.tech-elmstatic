@@ -1,6 +1,6 @@
 ---
 title: "Participação no Hipsters.Tech: Arquitetura e Práticas de Sistemas sem Downtime"
-tags: podcast arquitetura
+tags: podcast hipsters arquitetura
 ---
 
 Fui convidado para participar do Hipsters Ponto Tech para falar sobre como tentar deixar um sistema sem _downtime_.

@@ -1,6 +1,6 @@
 ---
 title: "Participação no podcast Hipsters On The Road: Flutter e Java no Serpro"
-tags: podcast flutter java
+tags: podcast hipsters flutter java
 ---
 
 Tive o prazer de participar do Hipsters On The Road #59 onde conversei, junto com outros colegas do SERPRO, sobre o uso do Flutter e Java no desenvolvimento da Carteira Digital de Trânsito e do Portal de Serviços DENATRAN.
