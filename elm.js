@@ -5528,26 +5528,6 @@ var $author$project$Page$footer = A2(
 				]),
 			_List_fromArray(
 				[
-					$author$project$Page$githubIcon,
-					A2(
-					$elm$html$Html$a,
-					_List_fromArray(
-						[
-							$elm$html$Html$Attributes$href('https://github.com/marciofrayze')
-						]),
-					_List_fromArray(
-						[
-							$elm$html$Html$text('GitHub')
-						]))
-				])),
-			A2(
-			$elm$html$Html$div,
-			_List_fromArray(
-				[
-					$elm$html$Html$Attributes$class('link')
-				]),
-			_List_fromArray(
-				[
 					$author$project$Page$twitterIcon,
 					A2(
 					$elm$html$Html$a,
@@ -5558,6 +5538,26 @@ var $author$project$Page$footer = A2(
 					_List_fromArray(
 						[
 							$elm$html$Html$text('Twitter')
+						]))
+				])),
+			A2(
+			$elm$html$Html$div,
+			_List_fromArray(
+				[
+					$elm$html$Html$Attributes$class('link')
+				]),
+			_List_fromArray(
+				[
+					$author$project$Page$githubIcon,
+					A2(
+					$elm$html$Html$a,
+					_List_fromArray(
+						[
+							$elm$html$Html$Attributes$href('https://github.com/marciofrayze')
+						]),
+					_List_fromArray(
+						[
+							$elm$html$Html$text('GitHub')
 						]))
 				])),
 			A2(

@@ -98,14 +98,14 @@ footer =
         --            , attribute "width" "75"
         --            ]
         [ div [ class "link" ]
-            [ githubIcon
-            , a [ href "https://github.com/marciofrayze" ]
-                [ text "GitHub" ]
-            ]
-        , div [ class "link" ]
             [ twitterIcon
             , a [ href "https://twitter.com/marciofrayze" ]
                 [ text "Twitter" ]
+            ]
+        , div [ class "link" ]
+            [ githubIcon
+            , a [ href "https://github.com/marciofrayze" ]
+                [ text "GitHub" ]
             ]
         , div [ class "link" ]
             [ a [ href "https://www.npmjs.com/package/elmstatic" ]
