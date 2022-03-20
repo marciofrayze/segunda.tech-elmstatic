@@ -5637,7 +5637,7 @@ var $author$project$Page$header = _List_fromArray(
 									]),
 								_List_fromArray(
 									[
-										$elm$html$Html$text('Curso de Clojure')
+										$elm$html$Html$text('Curso de Clojure λ')
 									]))
 							])),
 						A2(

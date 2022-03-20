@@ -65,7 +65,7 @@ header =
                 ]
             , li []
                 [ a [ href "/clojure" ]
-                    [ text "Curso de Clojure" ]
+                    [ text "Curso de Clojure λ" ]
                 ]
             , li []
                 [ a [ href "https://elm.dev.br" ]
