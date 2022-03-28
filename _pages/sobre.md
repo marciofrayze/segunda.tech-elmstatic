@@ -6,13 +6,14 @@ _**English version [here](/about).**_
   
 Meu nome é Marcio Frayze David e sou autor do projeto *segunda.tech*.
   
-Desenvolvo softwares há mais de uma década. Desde 2009 trabalho como
+Desenvolvo softwares há mais de uma década e desde 2009 trabalho como
 analista de sistemas no Serviço Federal de Processamento de Dados
-([SERPRO](https://serpro.gov.br)), onde ajudo diversas equipes a
+([SERPRO](https://serpro.gov.br)), onde ajudo diversos times a
 implementar soluções para clientes como a Receita Federal do Brasil e
-o Secretaria Nacional de Trânsito (SENATRAN). Nesta empresa atuei
-em muitas soluções, incluindo o desenvolvimento do aplicativo
-[Carteira Digital de Trânsito (CDT)](https://servicos.serpro.gov.br/carteira-digital/).  
+Secretaria Nacional de Trânsito ([SENATRAN](https://www.gov.br/infraestrutura/pt-br/assuntos/transito/senatran)). 
+Um dos projetos que ajudei a desenvolver foi o aplicativo
+[Carteira Digital de Trânsito (CDT)](https://servicos.serpro.gov.br/carteira-digital).  
+
 Embora durante a maior parte do meu trabalho passe desenvolvendo softwares
 no *backend*, também desenvolvo *frontends* e aplicativos móveis (para iOS e
 Android).

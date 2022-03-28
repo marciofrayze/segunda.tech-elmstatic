@@ -2,18 +2,20 @@
 title: "About me"
 ---
 
-My name is Marcio Frayze David and I am author of the project *segunda.tech*.
+My name is Marcio Frayze David and I am the author of the project *segunda.tech*.
+You can read the articles I wrote in english <a href=https://segunda.tech/tags/english/>here</a>.
   
-I've been developing software for over a decade. Since 2009 I have been working as a
+I have been developing software for over a decade and since 2009 I have been working as a
 systems analyst at the Brazilian Federal Data Processing Service
 ([SERPRO](https://serpro.gov.br)), where I help several teams to
 implement solutions for clients such as the Brazilian Internal Revenue Service 
 ([Receita Federal](http://receita.economia.gov.br/Receita Federal)) and
 the National Traffic Department ([SENATRAN](https://portalservicos.denatran.serpro.gov.br)).
-In this company I worked in many solutions, including development of the 
-[Digital Traffic Wallet (CDT)](https://servicos.serpro.gov.br/carteira-digital/).  
-Although most of my work is developing backend software, I also develop
-frontends and mobile apps (for iOS and Android).
+
+One of the projects I helped develop was the App [Digital Transit Wallet (CDT)](https://servicos.serpro.gov.br/carteira-digital). 
+
+Although I spend most of my time developing softwares for the *backend*, I also develop *frontends*
+and mobile apps (for iOS and Android).
 
 ---
 
