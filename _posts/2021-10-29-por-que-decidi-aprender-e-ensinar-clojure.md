@@ -1,6 +1,6 @@
 ---
 title: "Por que decidi aprender (e ensinar) Clojure"
-tags: clojure programaçãofuncional artigo curso
+tags: artigo clojure programaçãofuncional curso
 ---
 
 Em 2017 comecei a me aprofundar no universo da Programação Funcional. Este paradigma já ganhava bastante popularidade e cada vez mais as principais linguagens de programação orientadas a objetos incluíam recursos inspirados neste paradigma, inclusive a linguagem que eu mais utilizava: Java.
