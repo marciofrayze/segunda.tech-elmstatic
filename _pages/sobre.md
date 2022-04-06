@@ -14,7 +14,7 @@ Secretaria Nacional de Trânsito ([SENATRAN](https://www.gov.br/infraestrutura/p
 Um dos projetos que ajudei a desenvolver foi o aplicativo
 [Carteira Digital de Trânsito (CDT)](https://servicos.serpro.gov.br/carteira-digital).  
 
-Embora durante a maior parte do meu trabalho passe desenvolvendo softwares
+Embora passe a maior parte do meu tempo de trabalho desenvolvendo softwares
 no *backend*, também desenvolvo *frontends* e aplicativos móveis (para iOS e
 Android).
 
@@ -28,7 +28,7 @@ profissional e continuo estudando-a e aperfeiçoando minhas habilidades.
 
 ### JavaScript
 Principal linguagem que utilizo para desenvolver *frontends* em conjunto com
-com *Vue.js*, *hyperapp* e *react*.
+com *vue.js*, *react* e *hyperapp*.
 
 ### Flutter / Kotlin / Swift
 Tive a oportunidade de participar do desenvolvimento de alguns aplicativos
@@ -42,11 +42,11 @@ Gosto bastante desta linguagem e sou instrutor do curso [Clojure: Introdução �
 No passado utilizei bastante esta linguagem e inclusive criei [um *framework web*](https://github.com/marciofrayze/rackstep) com ela.
 
 ### Elm
-Embora não a tenha utilizado em nenhum grande projeto, sou fã desta linguagem
-e de sua comunidade.
+Embora não a tenha utilizado em nenhum grande projeto, esta é minha linguagem de programação favorita e admiro muito
+sua comunidade.
 
 ### Elixir
-Ainda sou iniciante nesta linguagem, mas estou atualmente estudando-a através do livro <a href="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4" target=_blank>Programming Phoenix</a>.
+Ainda sou iniciante nesta linguagem e atualmente  estou estudando-a através do livro <a href="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4" target=_blank>Programming Phoenix</a>.
 
 ### Haskell
 Sou iniciante nesta linguagem, mas admiro suas ideias e concepções. Estuda-la me ajudou a entender melhor o paradigma funcional e têm me ajudado a me tornar um programador melhor em geral.
@@ -63,7 +63,7 @@ minha carreira, mas sempre priorizei os conceitos acima de tudo. Por isso,
 dou atenção especial aos estudos de paradigmas e boas práticas de programação.  
 Durante muitos anos meu foco foi na programação orientada a objetos, mas nos
 últimos anos comecei a estudar bastante sobre o paradigma funcional.  
-Além disso, tenho me interesso também por programação extrema e arquitetura de software.  
+Além disso, tenho me interesso também por programação extrema (XP) e arquitetura de software.  
 
 ---
 

@@ -5,12 +5,12 @@ title: "About me"
 My name is Marcio Frayze David and I am the author of the project *segunda.tech*.
 You can read the articles I wrote in english <a href=https://segunda.tech/tags/english/>here</a>.
   
-I have been developing software for over a decade and since 2009 I have been working as a
+I have been developing software for over a decade and have been working as a
 systems analyst at the Brazilian Federal Data Processing Service
-([SERPRO](https://serpro.gov.br)), where I help several teams to
+([SERPRO](https://serpro.gov.br)) since 2009, where I help several teams to
 implement solutions for clients such as the Brazilian Internal Revenue Service 
 ([Receita Federal](http://receita.economia.gov.br/Receita Federal)) and
-the National Traffic Department ([SENATRAN](https://portalservicos.denatran.serpro.gov.br)).
+the National Traffic Secretariat ([SENATRAN](https://portalservicos.denatran.serpro.gov.br)).
 
 One of the projects I helped develop was the App [Digital Transit Wallet (CDT)](https://servicos.serpro.gov.br/carteira-digital). 
 
@@ -27,7 +27,7 @@ and I keep studying it and perfecting my skills.
 
 ### JavaScript
 Main language I use to develop frontends together with
-with *Vue.js*, *hyperapp* and *react*.
+with *vue.js*, *hyperapp* and *react*.
 
 ### Flutter / Kotlin / Swift
 I had the opportunity to participate in the development of some mobile applications
@@ -41,7 +41,7 @@ I really like this language and I'm the creator of the course [Clojure: Introduc
 In the past I have used this language a lot and even created [a *web framework*](https://github.com/marciofrayze/rackstep) with it.
 
 ### Elm
-Although I have not used it in any major project, I am a big fan of this language and its community.
+Although I haven't used it in any major project, this is my favorite programming language and I really admire its community.
 
 ### Elixir
 I'm still new to this language, but I'm currently studying it through the book <a href="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4" target=_blank>Programming Phoenix</a>.
@@ -61,7 +61,7 @@ my career, but I've always prioritized the concepts above all else. So,
 I pay special attention to the studies of paradigms and good programming practices.  
 For many years my focus was on object-oriented programming, but in
 recent years I have also begun to study a lot about the functional paradigm.  
-In addition, I am interested in extreme programming and software architecture.  
+In addition, I am interested in extreme programming (XP) and software architecture.  
 
 ---
 
