@@ -11,7 +11,7 @@ styles : Html msg
 styles =
     let
         wideScreen =
-            withMedia [ only screen [ Media.minWidth <| Css.px 600 ] ]
+            withMedia [ only screen [ Media.minWidth <| Css.px 900 ] ]
 
         codeStyle =
             [ fontFamilies [ "Inconsolata", .value monospace ]
@@ -25,7 +25,7 @@ styles =
             , Css.color <| hex "363636"
             , fontFamilies [ "Open Sans", "Arial", .value sansSerif ]
             , fontSize <| px 18
-            , lineHeight <| Css.em 1.4
+            , lineHeight <| Css.em 1.6
             ]
         , a
             [ Css.color <| hex "348aa7"

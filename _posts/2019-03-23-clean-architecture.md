@@ -1,6 +1,6 @@
 ---
 title: "Clean Architecture"
-tags: podcast arquitetura tdd
+tags: podcast podcast-segunda.tech arquitetura tdd
 ---
 
 Terceiro episódio do podcast sobre livros.

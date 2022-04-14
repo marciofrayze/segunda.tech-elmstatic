@@ -5697,6 +5697,22 @@ var $author$project$Page$header = _List_fromArray(
 								$elm$html$Html$a,
 								_List_fromArray(
 									[
+										$elm$html$Html$Attributes$href('/pdepodcast')
+									]),
+								_List_fromArray(
+									[
+										$elm$html$Html$text('p de Podcast')
+									]))
+							])),
+						A2(
+						$elm$html$Html$li,
+						_List_Nil,
+						_List_fromArray(
+							[
+								A2(
+								$elm$html$Html$a,
+								_List_fromArray(
+									[
 										$elm$html$Html$Attributes$href('/rss')
 									]),
 								_List_fromArray(
@@ -8845,7 +8861,7 @@ var $author$project$Styles$styles = function () {
 				_List_fromArray(
 					[
 						$rtfeldman$elm_css$Css$Media$minWidth(
-						$rtfeldman$elm_css$Css$px(600))
+						$rtfeldman$elm_css$Css$px(900))
 					]))
 			]));
 	var codeStyle = _List_fromArray(
@@ -8886,7 +8902,7 @@ var $author$project$Styles$styles = function () {
 							$rtfeldman$elm_css$Css$fontSize(
 							$rtfeldman$elm_css$Css$px(18)),
 							$rtfeldman$elm_css$Css$lineHeight(
-							$rtfeldman$elm_css$Css$em(1.4))
+							$rtfeldman$elm_css$Css$em(1.6))
 						])),
 					$rtfeldman$elm_css$Css$Global$a(
 					_List_fromArray(

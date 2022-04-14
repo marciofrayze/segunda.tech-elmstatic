@@ -42,7 +42,7 @@ body {
     grid-area: footer;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 900px) {
     body {
         grid-template-rows: 100px 1fr 80px;
         grid-template-columns: 1fr minmax(400px, 800px) 1fr;

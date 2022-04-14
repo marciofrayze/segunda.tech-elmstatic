@@ -1,6 +1,6 @@
 ---
 title: "Padrões de Implementação: Um Catálogo de Padrões Indispensável para o Dia a Dia do Programador"
-tags: podcast arquitetura
+tags: podcast podcast-segunda.tech arquitetura
 ---
 
 Sexto episódio do podcast sobre livros. Desta vez falando sobre o Padrões de Implementação: Um Catálogo de Padrões Indispensável para o Dia a Dia do Programador.
