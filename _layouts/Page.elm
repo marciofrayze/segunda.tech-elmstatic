@@ -69,7 +69,7 @@ header =
                 ]
             , li []
                 [ a [ href "https://elm.dev.br" ]
-                    [ text "Programação para Iniciantes" ]
+                    [ text "Programação para iniciantes" ]
                 ]
             , li []
                 [ a [ href "/sobre" ]
