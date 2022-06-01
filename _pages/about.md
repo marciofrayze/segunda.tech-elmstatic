@@ -12,7 +12,7 @@ implement solutions for clients such as the Brazilian Internal Revenue Service
 ([Receita Federal](http://receita.economia.gov.br/Receita Federal)) and
 the National Traffic Secretariat ([SENATRAN](https://portalservicos.denatran.serpro.gov.br)).
 
-One of the projects I helped develop was the App [Digital Transit Wallet (CDT)](https://servicos.serpro.gov.br/carteira-digital). 
+One of the projects I helped develop was the [Digital Transit Wallet (CDT)](https://servicos.serpro.gov.br/carteira-digital) App. 
 
 Although I spend most of my time developing softwares for the *backend*, I also develop *frontends*
 and mobile apps (for iOS and Android).
