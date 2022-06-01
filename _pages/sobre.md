@@ -158,7 +158,7 @@ Presbiteriana Mackenzie em 2010.
 Disponível para baixar [aqui](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf).
 
 ### Graduação
-Ciência da Computação pela PUC-SP em 2007.  
+Ciência da Computação pela PUC-SP em 2005.  
 
 ### Artigos em revistas científicas
 **Evento**: [AI*IA 2009: Emergent Perspectives in Artificial Intelligence](https://www.springer.com/gp/book/9783642102905). XI Conference of the Italian Association for Artificial Intelligence, 2009, Reggio Emilia.  

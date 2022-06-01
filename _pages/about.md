@@ -156,7 +156,7 @@ Electrical Engineering (with emphasis on Artificial Intelligence) at the
 Available for download [here](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf).
 
 ### Graduation
-Computer Science at [Pontifical Catholic University of São Paulo](https://www.pucsp.br/home).  
+Computer Science at [Pontifical Catholic University of São Paulo](https://www.pucsp.br/home) in 2005.  
 
 ### Articles in scientific journals
 **Event**: [AI*IA 2009: Emergent Perspectives in Artificial Intelligence](https://www.springer.com/gp/book/9783642102905). XI Conference of the Italian Association for Artificial Intelligence, 2009, Reggio Emilia.  
