@@ -153,7 +153,7 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 Electrical Engineering (with emphasis on Artificial Intelligence) at the
 [Presbyterian Mackenzie University](https://www.mackenzie.br/en/universidade/meet-the-university) in 2010.  
 **Dissertation title**: A bioinspired algorithm for data grouping.  
-Available for download [here](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf).
+Available for download [here](https://dspace.mackenzie.br/handle/10899/24422).
 
 ### Graduation
 Computer Science at [Pontifical Catholic University of São Paulo](https://www.pucsp.br/home) in 2005.  

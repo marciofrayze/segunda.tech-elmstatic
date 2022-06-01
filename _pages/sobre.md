@@ -155,7 +155,7 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 Engenharia Elétrica (com ênfase em Inteligência Artificial) pela Universidade  
 Presbiteriana Mackenzie em 2010.  
 **Título da dissertação**: Um algoritmo bioinspirado para agrupamento de dados.  
-Disponível para baixar [aqui](http://tede.mackenzie.br/jspui/bitstream/tede/1519/1/Marcio%20Frayze%20David.pdf).
+Disponível para baixar [aqui](https://dspace.mackenzie.br/handle/10899/24422).
 
 ### Graduação
 Ciência da Computação pela PUC-SP em 2005.  
