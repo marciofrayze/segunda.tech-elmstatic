@@ -45,6 +45,7 @@
         "tic-80",
         "elm",
         "pomodoro",
-        "hipsters"
+        "hipsters",
+        "virtual-dom"
     ]
 }

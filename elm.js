@@ -5582,6 +5582,7 @@ var $author$project$Page$footer = A2(
 		]));
 var $elm$html$Html$h1 = _VirtualDom_node('h1');
 var $elm$html$Html$li = _VirtualDom_node('li');
+var $elm$html$Html$Attributes$target = $elm$html$Html$Attributes$stringProperty('target');
 var $elm$html$Html$ul = _VirtualDom_node('ul');
 var $author$project$Page$header = _List_fromArray(
 	[
@@ -5633,7 +5634,8 @@ var $author$project$Page$header = _List_fromArray(
 								$elm$html$Html$a,
 								_List_fromArray(
 									[
-										$elm$html$Html$Attributes$href('/clojure')
+										$elm$html$Html$Attributes$href('/clojure'),
+										$elm$html$Html$Attributes$target('_blank')
 									]),
 								_List_fromArray(
 									[
@@ -5649,11 +5651,12 @@ var $author$project$Page$header = _List_fromArray(
 								$elm$html$Html$a,
 								_List_fromArray(
 									[
-										$elm$html$Html$Attributes$href('https://elm.dev.br')
+										$elm$html$Html$Attributes$href('https://elm.dev.br'),
+										$elm$html$Html$Attributes$target('_blank')
 									]),
 								_List_fromArray(
 									[
-										$elm$html$Html$text('Programação para Iniciantes')
+										$elm$html$Html$text('Programação para iniciantes')
 									]))
 							])),
 						A2(
