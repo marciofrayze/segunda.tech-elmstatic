@@ -52,7 +52,7 @@
                 Total arrecadado (bruto)
             </td>
             <td>
-                448 dólares (~2.383 reais)
+                609.59 dólares (~3.149 reais)
             </td>
         </tr>
         <tr>
@@ -60,7 +60,7 @@
                 Total retido pelas plataformas
             </td>
             <td>
-                111 dólares (~591 reais)
+                115.67 dólares (~597,53 reais)
             </td>
         </tr>
         <tr>
@@ -68,7 +68,7 @@
                 Total repassado para mim
             </td>
             <td>
-                261,54 dólares (~1.793 reais)
+                484.92 dólares (~2505 reais)
             </td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@
                 Total de estudantes
             </td>
             <td>
-                230
+                369
             </td>
         </tr>
         <tr>
@@ -84,7 +84,7 @@
                 Valor médio arrecadado por estudante
             </td>
             <td>
-                7,87 reais
+                6,7 reais
             </td>
         </tr>
     </table>
@@ -102,7 +102,7 @@
                 Total arrecadado (bruto)
             </td>
             <td>
-                284 dólares
+                321 dólares (~1.658 reais)
             </td>
         </tr>
         <tr>
@@ -110,7 +110,7 @@
                 Taxas e impostos retidos
             </td>
             <td>
-                99 dólares
+                104 dólares
             </td>
         </tr>
         <tr>
@@ -118,7 +118,7 @@
                 Valor repassado para mim
             </td>
             <td>
-                185 dólares (~985 reais)
+                208 dólares (~1074 reais)
             </td>
         </tr>
         <tr>
@@ -126,7 +126,7 @@
                 Quantidade de estudantes
             </td>
             <td>
-                183
+                220
             </td>
         </tr>
         <tr>
@@ -134,7 +134,7 @@
                 Valor médio arrecadado por estudante
             </td>
             <td>
-                5,38 reais
+                4,8 reais
             </td>
         </tr>
         <tr>
@@ -142,7 +142,7 @@
                 Quantidade de pagantes
             </td>
             <td>
-                49
+                56
             </td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@
                 Estudantes não pagantes
             </td>
             <td>
-                134
+                164
             </td>
         </tr>
         <tr>
@@ -158,7 +158,7 @@
                 Percentual de pagantes
             </td>
             <td>
-                36%
+                34%
             </td>
         </tr>
         <!-- tr>
@@ -222,15 +222,15 @@
                 Total arrecadado (bruto)
             </td>
             <td>
-                164 dólares
+                288.59 dólares (~1490 reais)
             </td>
         </tr>
         <tr>
             <td>
-                Taxas e impostos retidos
+                Impostos retidos
             </td>
             <td>
-                12 dólares
+                11.67 dólares
             </td>
         </tr>
         <tr>
@@ -238,7 +238,7 @@
                 Valor repassado para mim
             </td>
             <td>
-                152 dólares (~809 reais)
+                276.92 dólares (~1430 reais)
             </td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@
                 Quantidade de estudantes
             </td>
             <td>
-                89
+                149
             </td>
         </tr>
         <tr>
@@ -254,7 +254,7 @@
                 Valor médio arrecadado por estudante
             </td>
             <td>
-                9 reais
+                9,5 reais
             </td>
         </tr>
         <tr>
@@ -262,7 +262,7 @@
                 Quantidade de tempo assistido (soma de todos os alunos)
             </td>
             <td>
-                17.195 minutos (286 horas) e 66 alunos ativos.
+                29.981 minutos (499 horas) e 101 alunos ativos nos últimos 12 meses.
                 <!-- https://www.udemy.com/instructor/performance/engagement/?date_filter=year&course_id=4137784 -->
             </td>
         </tr>
