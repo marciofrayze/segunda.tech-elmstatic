@@ -1,6 +1,6 @@
 ---
 title: "Por que Elm é uma linguagem tão deliciosa?"
-tags: artigo elm web spa javascript
+tags: artigo elm programaçãofuncional web spa javascript
 ---
 
 [Elm](https://elm-lang.org) é uma linguagem de programação criada por [Evan Czaplicki](https://twitter.com/evancz) e uma definição recorrente usada para descrevê-la é:
