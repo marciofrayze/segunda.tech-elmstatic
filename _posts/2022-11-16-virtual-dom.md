@@ -1,6 +1,6 @@
 ---
 title: "Virtual DOM: What problem does it solve?"
-tags: english artigo javascript elm
+tags: english artigo web javascript elm
 ---
 
 I vividly remember a conversation I had with a co-worker in 2013. He was enthusiastic about a JavaScript library developed internally by Facebook that the company had decided to make open-source. I'm talking, of course, about React.

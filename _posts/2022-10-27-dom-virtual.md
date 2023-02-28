@@ -1,6 +1,6 @@
 ---
 title: "DOM Virtual: Qual problema ela resolve?"
-tags: artigo virtual-dom javascript elm
+tags: artigo virtual-dom javascript elm web
 ---
 
 Lembro vividamente uma conversa que tive com um colega de trabalho em 2013. Ele estava entusiasmado com uma biblioteca JavaScript desenvolvida internamente pelo Facebook e que a empresa havia decidido tornar open-source. Estou falando, claro, do React.
