@@ -3,7 +3,7 @@ title: "Why is Elm such a delightful programming language?"
 tags: english artigo elm programaçãofuncional web spa javascript
 ---
 
-[Elm](https://elm-lang.org) is a programming language created by [Evan Czaplicki](https://twitter.com/evancz) and a recurring definition (no pun intended) used to describe it is: 
+[Elm](https://elm-lang.org) is a programming language created by [Evan Czaplicki](https://twitter.com/evancz) and a recurring definition used to describe it is: 
 
 > "A delightful language for reliable web applications." - [Elm website](https://elm-lang.org). 
 
