@@ -43,9 +43,6 @@ In the past I have used this language a lot and even created [a *web framework*]
 ### Elm
 Although I haven't used it in any major project, this is my favorite programming language and I really admire its community.
 
-### Elixir
-I'm still new to this language, but I'm currently studying it through the book <a href="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4" target=_blank>Programming Phoenix</a>.
-
 ### Haskell
 I'm new to this language, but I admire the ideas and conceptions behind it. Studying it has helped me better understand the functional paradigm and have helped me become a better programmer in general.
 

@@ -45,9 +45,6 @@ No passado utilizei bastante esta linguagem e inclusive criei [um *framework web
 Embora não a tenha utilizado em nenhum grande projeto, esta é minha linguagem de programação favorita e admiro muito
 sua comunidade.
 
-### Elixir
-Ainda sou iniciante nesta linguagem e atualmente  estou estudando-a através do livro <a href="https://pragprog.com/titles/phoenix14/programming-phoenix-1-4" target=_blank>Programming Phoenix</a>.
-
 ### Haskell
 Sou iniciante nesta linguagem, mas admiro suas ideias e concepções. Estuda-la me ajudou a entender melhor o paradigma funcional e têm me ajudado a me tornar um programador melhor em geral.
 
