@@ -1,4 +1,4 @@
-.PHONY: help review
+.PHONY: help
 
 help:
 	@echo "\n\nComandos disponíveis:\n"
