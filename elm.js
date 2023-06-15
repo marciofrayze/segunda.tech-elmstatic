@@ -5694,7 +5694,7 @@ var $author$project$Page$header = _List_fromArray(
 								$elm$html$Html$a,
 								_List_fromArray(
 									[
-										$elm$html$Html$Attributes$href('/clojure'),
+										$elm$html$Html$Attributes$href('https://cursos.segunda.tech'),
 										$elm$html$Html$Attributes$target('_blank')
 									]),
 								_List_fromArray(
