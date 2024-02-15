@@ -2,12 +2,13 @@
 title: "Edudu"
 ---
 
-Edudu é um projeto para ensinar programação de forma on-line, simples e gratuita.
+## Entre em Contato
 
-Através de exemplos e desafios, em pouco tempo aprenderá os fundamentos da programação.
+Obrigado por escolher o EDUDU para otimizar sua gestão escolar! Se você tiver alguma dúvida, feedback ou precisar de suporte técnico, estamos aqui para ajudar.
 
-Neste curso, utilizamos a linguagem de programação Elm.
+Por favor, envie um e-mail para [marcio@segunda.tech](mailto:marcio@segunda.tech) e nossa equipe de suporte terá o prazer de lhe assistir.
 
-Este projeto ainda está em desenvolvimento.
+Estamos ansiosos para ouvir de você e garantir que sua experiência com o EDUDU seja a melhor possível.
 
-Para entrar em contato, envie um e-mail para [marcio@segunda.tech](mailto:marcio@segunda.tech).
+Atenciosamente,  
+Equipe de Suporte do EDUDU
