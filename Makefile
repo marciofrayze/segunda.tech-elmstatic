@@ -17,6 +17,10 @@ run:
 	echo "Build finalizada"
 	http-server _site
 
+copy-edudu-flutter-build-web-to-resources:
+	rm -rf _resources/edudu && mkdir _resources/edudu && cp -r ../edudu-flutter/edudu/build/web/* _resources/edudu/
+	@echo "\n\nCopiado build web do edudu-flutter para _resources/edudu\n\n"
+
 upgrade:
 	elm-json upgrade
 
