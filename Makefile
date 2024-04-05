@@ -7,6 +7,7 @@ help:
 	@echo "build-release: gera build de produção.\n"
 	@echo "open-repo: abre página principal do repositório git do projeto\n"
 	@echo "build-deploy: compila versão de produção e faz deploy no firebase\n\n"
+	@echo "copy-edudu-flutter-build-web-to-resources: copia build web do edudu-flutter para _resources/edudu\n\n"
 
 run:
 	rm -rf ./_site
