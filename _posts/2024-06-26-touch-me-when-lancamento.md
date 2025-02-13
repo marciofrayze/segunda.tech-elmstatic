@@ -7,6 +7,7 @@ tags: artigo elm touchwhen
 
 Este jogo é um desafio rápido e (muito simples) para dois jogadores, projetado para ser jogado localmente no mesmo dispositivo. Os jogadores correm para tocar na tela quando as cores e formas coincidem para marcar pontos.
 
-Atualmente [disponível para iPhone apenas](https://apps.apple.com/br/app/touch-me-when/id6504830333) (a versão para Android está em revisão, mas o Google exige mais 2 semanas de testes fechados antes de aprová-la).
+Faça o download para o seu iPhone em: https://apps.apple.com/br/app/touch-me-when/id6504830333
 
-Baixe para o seu iPhone em: https://apps.apple.com/br/app/touch-me-when/id6504830333
+Ou para o seu dispositivo Android em:
+https://play.google.com/store/apps/details?id=tech.segunda.touchwhen
