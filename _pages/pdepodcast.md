@@ -4,11 +4,14 @@ title: "p de Podcast"
 
 Podcast sobre arquitetura de software, boas práticas de programação e outros temas relacionados a desenvolvimento de software. 
 
-### Autores:  
-- Marcio Frayze David (https://twitter.com/marciofrayze)  
-- Julianno Martins Silva (https://twitter.com/juliannoms)
+### Autores:
+
+- Marcio Frayze David (https://x.com/marciofrayze)  
+- Julianno Martins Silva (https://x.com/juliannoms)
 
 ##  Onde ouvir?
+
+O projeto teve 41 episódios, entre julho de 2020 e abril de 2021. Embora já não tenha novos episódios, acreditamos que o conteúdo gerado ainda é bastante relevante. Você pode ouvir em:
 
 - [Spotify](https://open.spotify.com/show/1g20eCicNnqRoWlObOLZ3k)
 - [Apple Podcasts](https://podcasts.apple.com/br/podcast/p-de-podcast/id1523873163)
