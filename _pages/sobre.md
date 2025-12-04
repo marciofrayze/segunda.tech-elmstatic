@@ -74,6 +74,12 @@ livros que influenciaram minha carreira. Além disso, sou um dos fundadores do [
 ---
 
 ## Participações em eventos e podcasts
+**Título**: Introduzindo Programação Funcional na Carteira Digital de Trânsito.  
+**Evento**: Clojure South 2025.  
+**Local**: Escritório do Nubank (Spark).  
+**Data**: 07/10/2025.  
+**Link**: http://clojure-south.com  
+
 **Título**: Participação no Hipsters.Tech: Breve história do Agile no Brasil.  
 **Evento**: Participação no Podcast Hipsters ponto Tech #295.  
 **Local**: Online (durante quarentena).  

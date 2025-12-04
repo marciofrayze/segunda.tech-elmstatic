@@ -72,6 +72,12 @@ books that influenced my career. I am also one of the founders of [p de Podcast 
 ---
 
 ## Talks
+**Título**: Introducing Functional Programming in the Digital Driver's Wallet.  
+**Evento**: Clojure South 2025.  
+**Local**: Nubank Office (Spark).  
+**Data**: 2025/10/07.  
+**Link**: http://clojure-south.com  
+
 **Title**: Brief history of Agile in Brazil.  
 **Event**: Guest in the Hipsters ponto Tech Podcast #295.  
 **Local**: Online (during quarantine).  
